@@ -7,25 +7,25 @@
 
 <p align="center">
   <a href="https://t.me/cons3qu3nc3s">
-    <img src="https://img.shields.io/badge/Telegram-@cons3qu3nc3s-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@cons3qu3nc3s-E8DED2?style=for-the-badge&logo=telegram&logoColor=0088CC&labelColor=D4C4A8&color=5D4E37" alt="Telegram" />
   </a>
   &nbsp;
   <a href="https://vk.com/sayzeromi">
-    <img src="https://img.shields.io/badge/VK-sayzeromi-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
+    <img src="https://img.shields.io/badge/VK-sayzeromi-C5CAE9?style=for-the-badge&logo=vk&logoColor=1976D2&labelColor=B4B9D9&color=3949AB" alt="VK" />
   </a>
   &nbsp;
   <a href="https://youtube.com/@sayomiyori">
-    <img src="https://img.shields.io/badge/YouTube-@sayomiyori-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-@sayomiyori-FFE0E6?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=F5C6D0&color=8D4F5A" alt="YouTube" />
   </a>
   &nbsp;
   <a href="https://github.com/sayomiyori">
-    <img src="https://img.shields.io/badge/GitHub-sayomiyori-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-sayomiyori-CFD8DC?style=for-the-badge&logo=github&logoColor=37474F&labelColor=B0BEC5&color=455A64" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://sayomiyori.github.io/">
-    <img src="https://img.shields.io/badge/View_Portfolio-Open_→-0d9488?style=for-the-badge&labelColor=0f766e&logo=link&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Open_→-B2DFDB?style=for-the-badge&logo=link&logoColor=00695C&labelColor=80CBC4&color=00695C" alt="Portfolio" />
   </a>
 </p>
 
