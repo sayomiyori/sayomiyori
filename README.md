@@ -9,7 +9,12 @@
 [![VK](https://img.shields.io/badge/VK-sayzeromi-0077FF?style=flat-square&logo=vk)](https://vk.com/sayzeromi)
 [![YouTube](https://img.shields.io/badge/YouTube-@sayomiyori-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@sayomiyori)
 [![GitHub](https://img.shields.io/badge/GitHub-sayomiyori-181717?style=flat-square&logo=github)](https://github.com/sayomiyori)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sayomiyori.github.io-0d9488?style=flat-square)](https://sayomiyori.github.io/)
+
+<p align="center">
+  <a href="https://sayomiyori.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Open_→-0d9488?style=for-the-badge&labelColor=0f766e" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -149,4 +154,5 @@
 
 Сейчас углубляюсь в backend на **Python** и десктоп на **C#**. Открыт к пет-проектам и коллаборациям.
 
-👉 **Написать:** [Telegram](https://t.me/cons3qu3nc3s) · [VK](https://vk.com/sayzeromi) · [**Портфолио**](https://sayomiyori.github.io/)
+👉 **Написать:** [Telegram](https://t.me/cons3qu3nc3s) · [VK](https://vk.com/sayzeromi)  
+👉 **Портфолио:** [**sayomiyori.github.io** →](https://sayomiyori.github.io/)
