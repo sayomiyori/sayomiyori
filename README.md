@@ -35,10 +35,14 @@
 
 ## 📈 GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayomiyori&show_icons=true&theme=dark&hide_border=true)](https://github.com/sayomiyori)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayomiyori&theme=dark&hide_border=true)](https://github.com/sayomiyori)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayomiyori&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayomiyori" alt="Streak" width="49%" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayomiyori&layout=compact&theme=dark&hide_border=true)](https://github.com/sayomiyori)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayomiyori&layout=compact&theme=default" alt="Top Langs" />
+</p>
 
 ---
 
