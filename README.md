@@ -36,12 +36,11 @@
 ## 📈 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayomiyori&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayomiyori" alt="Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=sayomiyori&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayomiyori&layout=compact&theme=default" alt="Top Langs" />
+  <a href="https://github.com/sayomiyori">📊 Статистика и граф контрибуций на GitHub</a>
 </p>
 
 ---
