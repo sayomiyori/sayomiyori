@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sayomiyori/sayomiyori/main/github-banner-1280x320.png" width="1280" alt="Banner">
+<img src="https://raw.githubusercontent.com/sayomiyori/sayomiyori/main/Coding Zero One GIF by Squirrel Monkey.gif" width="1280" alt="Banner">
 
 # Матвей Бурик
 
