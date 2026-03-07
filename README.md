@@ -5,14 +5,27 @@
 ### Python · C# · C++ · Frontend · Junior Developer  
 **Симферополь** · Telegram-боты, десктоп, лендинги, системные утилиты
 
-[![Telegram](https://img.shields.io/badge/Telegram-@cons3qu3nc3s-26A5E4?style=flat-square&logo=telegram)](https://t.me/cons3qu3nc3s)
-[![VK](https://img.shields.io/badge/VK-sayzeromi-0077FF?style=flat-square&logo=vk)](https://vk.com/sayzeromi)
-[![YouTube](https://img.shields.io/badge/YouTube-@sayomiyori-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@sayomiyori)
-[![GitHub](https://img.shields.io/badge/GitHub-sayomiyori-181717?style=flat-square&logo=github)](https://github.com/sayomiyori)
+<p align="center">
+  <a href="https://t.me/cons3qu3nc3s">
+    <img src="https://img.shields.io/badge/Telegram-@cons3qu3nc3s-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://vk.com/sayzeromi">
+    <img src="https://img.shields.io/badge/VK-sayzeromi-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@sayomiyori">
+    <img src="https://img.shields.io/badge/YouTube-@sayomiyori-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sayomiyori">
+    <img src="https://img.shields.io/badge/GitHub-sayomiyori-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://sayomiyori.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Open_→-0d9488?style=for-the-badge&labelColor=0f766e" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/View_Portfolio-Open_→-0d9488?style=for-the-badge&labelColor=0f766e&logo=link&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
