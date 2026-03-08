@@ -189,9 +189,12 @@ Desktop e-commerce: авторизация,
 ![CSS3](https://img.shields.io/badge/CSS3-1a5aaa?style=flat-square&logo=css3&logoColor=white&labelColor=0a3a8a)
 ![JS](https://img.shields.io/badge/JavaScript-aa8a00?style=flat-square&logo=javascript&logoColor=white&labelColor=7a5a00)
 
-[▶ NailLanding](https://sayomiyori.github.io/NailLanding/) — маникюр  
+[▶ NailLanding](https://sayomiyori.github.io/NailLanding/) — маникюр
+
 [▶ CakesLanding](https://sayomiyori.github.io/cakesLanding/) — кондитер
+
 [▶ Detox Detail](https://sayomiyori.github.io/DetailingLanding/) — детэйлинг
+
 [▶ PixelLaunch](https://sayomiyori.github.io/LandingSites/) — студия
 
 Mobile-first · без фреймворков  
