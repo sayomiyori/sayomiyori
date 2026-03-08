@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Matvey+%F0%9F%91%8B;Junior+Software+Developer;Python+%C2%B7+FastAPI+%C2%B7+C%23+%C2%B7+C%2B%2B;Building+things+that+actually+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFB347&center=true&vCenter=true&width=650&height=70&lines=Hey%2C+I'm+Matvey+%F0%9F%91%8B;Junior+Software+Developer;Python+%C2%B7+FastAPI+%C2%B7+C%23+%C2%B7+C%2B%2B;Building+things+that+actually+work)](https://git.io/typing-svg)
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-cons3qu3nc3s-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cons3qu3nc3s)
+[![Telegram](https://img.shields.io/badge/Telegram-cons3qu3nc3s-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cons3qu3nc3s)
 [![VK](https://img.shields.io/badge/VK-sayzeromi-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/sayzeromi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sayomiyori.github.io-20B2AA?style=for-the-badge&logo=github&logoColor=white)](https://sayomiyori.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sayomiyori.github.io-E8A838?style=for-the-badge&logo=github&logoColor=white)](https://sayomiyori.github.io/)
 
 </div>
 
@@ -46,14 +46,16 @@ class Matvey:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-1e3a5f?style=for-the-badge&logo=python&logoColor=4fc3f7)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a3a2e?style=for-the-badge&logo=fastapi&logoColor=4db6ac)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3a1a1a?style=for-the-badge&logo=python&logoColor=ef9a9a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a2a3a?style=for-the-badge&logo=postgresql&logoColor=90caf9)
-![SQLite](https://img.shields.io/badge/SQLite-1a2a2a?style=for-the-badge&logo=sqlite&logoColor=80cbc4)
-![JWT](https://img.shields.io/badge/JWT-1a1a2a?style=for-the-badge&logo=jsonwebtokens&logoColor=b39ddb)
-![pytest](https://img.shields.io/badge/pytest-1a2a3a?style=for-the-badge&logo=pytest&logoColor=4fc3f7)
-![aiogram](https://img.shields.io/badge/aiogram-1a2a3a?style=for-the-badge&logo=telegram&logoColor=4dd0e1)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,docker,git&theme=dark&perline=6)](https://skillicons.dev)
+
+![Python](https://img.shields.io/badge/Python-c8501a?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-c07a1a?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b84a1a?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-d4621a?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-b86a2a?style=for-the-badge&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-a0521a?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-c4601a?style=for-the-badge&logo=pytest&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-1a6a9a?style=for-the-badge&logo=telegram&logoColor=white)
 
 </div>
 
@@ -61,11 +63,13 @@ class Matvey:
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-1a2e1a?style=for-the-badge&logo=c-sharp&logoColor=a5d6a7)
-![WPF](https://img.shields.io/badge/.NET_WPF-1e1a3a?style=for-the-badge&logo=dotnet&logoColor=ce93d8)
-![C++](https://img.shields.io/badge/C++-1a2040?style=for-the-badge&logo=cplusplus&logoColor=82b1ff)
-![WinAPI](https://img.shields.io/badge/WinAPI-1a2a40?style=for-the-badge&logo=windows&logoColor=64b5f6)
-![SQL Server](https://img.shields.io/badge/SQL_Server-2a1a1a?style=for-the-badge&logo=microsoftsqlserver&logoColor=ef9a9a)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,windows&theme=dark&perline=4)](https://skillicons.dev)
+
+![C#](https://img.shields.io/badge/C%23-2a8a3a?style=for-the-badge&logo=c-sharp&logoColor=white)
+![WPF .NET](https://img.shields.io/badge/.NET_WPF-6a3a9a?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2a5aaa?style=for-the-badge&logo=cplusplus&logoColor=white)
+![WinAPI](https://img.shields.io/badge/WinAPI-1a5a9a?style=for-the-badge&logo=windows&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-aa2a2a?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 
@@ -73,10 +77,12 @@ class Matvey:
 
 <div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-1a2a40?style=for-the-badge&logo=docker&logoColor=4fc3f7)
-![Railway](https://img.shields.io/badge/Railway-151515?style=for-the-badge&logo=railway&logoColor=c8c8c8)
-![Git](https://img.shields.io/badge/Git-2a1a14?style=for-the-badge&logo=git&logoColor=ff8a65)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark&perline=4)](https://skillicons.dev)
+
+![Docker](https://img.shields.io/badge/Docker-1a6aaa?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-2a2a3a?style=for-the-badge&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-c84a14?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2a2a4a?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -84,12 +90,14 @@ class Matvey:
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-2a1a14?style=for-the-badge&logo=html5&logoColor=ff8a65)
-![CSS3](https://img.shields.io/badge/CSS3-1a2040?style=for-the-badge&logo=css3&logoColor=64b5f6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f1a00?style=for-the-badge&logo=javascript&logoColor=fff176)
-![Figma](https://img.shields.io/badge/Figma-2a1a1a?style=for-the-badge&logo=figma&logoColor=ff8a80)
-![Unity](https://img.shields.io/badge/Unity-1a1a1a?style=for-the-badge&logo=unity&logoColor=e0e0e0)
-![Blender](https://img.shields.io/badge/Blender-1f1800?style=for-the-badge&logo=blender&logoColor=ffcc80)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,unity,blender&theme=dark&perline=6)](https://skillicons.dev)
+
+![HTML5](https://img.shields.io/badge/HTML5-b84a14?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1a5aaa?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-aa8a00?style=for-the-badge&logo=javascript&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-aa2a1a?style=for-the-badge&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-2a2a2a?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-aa5a00?style=for-the-badge&logo=blender&logoColor=white)
 
 </div>
 
@@ -104,10 +112,10 @@ class Matvey:
 
 ### 🤖 [ChillLibrary Bot](https://github.com/sayomiyori/ChillLibraryTgBot)
 
-![КОММЕРЧЕСКИЙ](https://img.shields.io/badge/💼_КОММЕРЧЕСКИЙ-Kwork-1a3a2e?style=flat-square&labelColor=1a3a2e&color=2e7d32)
-![Python](https://img.shields.io/badge/Python-1e3a5f?style=flat-square&logo=python&logoColor=4fc3f7)
-![Docker](https://img.shields.io/badge/Docker-1a2a40?style=flat-square&logo=docker&logoColor=4fc3f7)
-![Railway](https://img.shields.io/badge/Railway-151515?style=flat-square&logo=railway&logoColor=c8c8c8)
+![КОММЕРЧЕСКИЙ](https://img.shields.io/badge/💼_КОММЕРЧЕСКИЙ-Kwork-2e6b2e?style=flat-square)
+![Python](https://img.shields.io/badge/Python-c8501a?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a6aaa?style=flat-square&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-2a2a3a?style=flat-square&logo=railway&logoColor=white)
 
 Поиск книг **3 способами**: по названию,  
 обложке (OCR), цитате (Gemini AI).  
@@ -118,10 +126,10 @@ class Matvey:
 
 ### 📚 [BookFinder API](https://github.com/sayomiyori/BookFinder-API)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-1a3a2e?style=flat-square&logo=fastapi&logoColor=4db6ac)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a2a3a?style=flat-square&logo=postgresql&logoColor=90caf9)
-![JWT](https://img.shields.io/badge/JWT-1a1a2a?style=flat-square&logo=jsonwebtokens&logoColor=b39ddb)
-![Alembic](https://img.shields.io/badge/Alembic-2a1a14?style=flat-square&logo=python&logoColor=ffcc80)
+![FastAPI](https://img.shields.io/badge/FastAPI-c07a1a?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b84a1a?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-a0521a?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-d4621a?style=flat-square&logo=python&logoColor=white)
 
 REST API: **10 эндпоинтов**, JWT-авторизация,  
 SQLAlchemy 2, Alembic-миграции,  
@@ -134,10 +142,10 @@ Docker Compose.
 
 ### 💪 [BodyTelling Bot](https://github.com/sayomiyori/BodyTellingTelegramBot)
 
-![КОММЕРЧЕСКИЙ](https://img.shields.io/badge/💼_КОММЕРЧЕСКИЙ-Kwork-1a3a2e?style=flat-square&labelColor=1a3a2e&color=2e7d32)
-![Python](https://img.shields.io/badge/Python-1e3a5f?style=flat-square&logo=python&logoColor=4fc3f7)
-![pytest](https://img.shields.io/badge/pytest-1a2a3a?style=flat-square&logo=pytest&logoColor=4fc3f7)
-![APScheduler](https://img.shields.io/badge/APScheduler-1f1800?style=flat-square&logo=python&logoColor=ffcc80)
+![КОММЕРЧЕСКИЙ](https://img.shields.io/badge/💼_КОММЕРЧЕСКИЙ-Kwork-2e6b2e?style=flat-square)
+![Python](https://img.shields.io/badge/Python-c8501a?style=flat-square&logo=python&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-c4601a?style=flat-square&logo=pytest&logoColor=white)
+![APScheduler](https://img.shields.io/badge/APScheduler-aa5a00?style=flat-square&logo=python&logoColor=white)
 
 Фитнес-бот: подбор тренировок по  
 **5 параметрам**, геймификация,  
@@ -148,9 +156,9 @@ Docker Compose.
 
 ### ⌨️ [HotkeyManager](https://github.com/sayomiyori/HotkeyManager)
 
-![C++](https://img.shields.io/badge/C++-1a2040?style=flat-square&logo=cplusplus&logoColor=82b1ff)
-![WinAPI](https://img.shields.io/badge/WinAPI-1a2a40?style=flat-square&logo=windows&logoColor=64b5f6)
-![Multithreading](https://img.shields.io/badge/Multithreading-1a1a2a?style=flat-square&logo=windows&logoColor=ce93d8)
+![C++](https://img.shields.io/badge/C++-2a5aaa?style=flat-square&logo=cplusplus&logoColor=white)
+![WinAPI](https://img.shields.io/badge/WinAPI-1a5a9a?style=flat-square&logo=windows&logoColor=white)
+![Multithreading](https://img.shields.io/badge/Multithreading-6a3a9a?style=flat-square&logo=windows&logoColor=white)
 
 Low-level перехват ввода на уровне ОС.  
 Многопоточное ядро,  
@@ -163,10 +171,10 @@ JSON-конфиг без перекомпиляции.
 
 ### 🖥️ [FurnitureStore](https://github.com/sayomiyori/FurnitureStore)
 
-![C#](https://img.shields.io/badge/C%23-1a2e1a?style=flat-square&logo=c-sharp&logoColor=a5d6a7)
-![WPF](https://img.shields.io/badge/WPF-1e1a3a?style=flat-square&logo=dotnet&logoColor=ce93d8)
-![MVVM](https://img.shields.io/badge/MVVM-1a1a2a?style=flat-square&logo=dotnet&logoColor=b39ddb)
-![SQL Server](https://img.shields.io/badge/SQL_Server-2a1a1a?style=flat-square&logo=microsoftsqlserver&logoColor=ef9a9a)
+![C#](https://img.shields.io/badge/C%23-2a8a3a?style=flat-square&logo=c-sharp&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-6a3a9a?style=flat-square&logo=dotnet&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-7a3a9a?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-aa2a2a?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 Desktop e-commerce: авторизация,  
 каталог, корзина, доставка, платежи.  
@@ -177,15 +185,15 @@ Desktop e-commerce: авторизация,
 
 ### 🌐 Live Demo
 
-![HTML5](https://img.shields.io/badge/HTML5-2a1a14?style=flat-square&logo=html5&logoColor=ff8a65)
-![CSS3](https://img.shields.io/badge/CSS3-1a2040?style=flat-square&logo=css3&logoColor=64b5f6)
-![JS](https://img.shields.io/badge/JavaScript-1f1a00?style=flat-square&logo=javascript&logoColor=fff176)
+![HTML5](https://img.shields.io/badge/HTML5-b84a14?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1a5aaa?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-aa8a00?style=flat-square&logo=javascript&logoColor=white)
 
 [▶ NailLanding](https://sayomiyori.github.io/NailLanding/) — маникюр  
-[▶ CakesLanding](https://sayomiyori.github.io/cakesLanding/) — кондитер  
+[▶ CakesLanding](https://sayomiyori.github.io/cakesLanding/) — кондитер
 
-Mobile-first, без фреймворков,  
-GitHub Pages.
+Mobile-first · без фреймворков  
+GitHub Pages
 
 </td>
 </tr>
@@ -195,13 +203,6 @@ GitHub Pages.
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayomiyori&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayomiyori&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
 
 <div align="center">
 
@@ -231,8 +232,8 @@ GitHub Pages.
 
 **Открыт к первой работе · Junior Python / C# / C++ · Remote**
 
-[![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-1a2a40?style=for-the-badge&logo=telegram&logoColor=4dd0e1)](https://t.me/cons3qu3nc3s)
+[![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cons3qu3nc3s)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sayomiyori&color=4fc3f7&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=sayomiyori&color=E8A838&style=flat-square&label=Profile+Views)
 
 </div>
