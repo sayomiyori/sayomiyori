@@ -1,171 +1,187 @@
+<div align="center">
 
+```
+██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
+██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
+██████╔╝ ╚████╔╝    ██║   ███████║██║   ██║██╔██╗ ██║
+██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║   ██║██║╚██╗██║
+██║        ██║      ██║   ██║  ██║╚██████╔╝██║ ╚████║
+╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+```
 
-# Матвей Бурик
+### `Junior Software Developer`
+**Python · FastAPI · C# · C++ · коммерческий опыт**
 
-### Python · C# · C++ · Frontend · Junior Developer  
-**Симферополь** · Telegram-боты, десктоп, лендинги, системные утилиты
+*Симферополь / Remote · UTC+3*
 
-<p align="center">
-  <a href="https://t.me/cons3qu3nc3s">
-    <img src="https://img.shields.io/badge/Telegram-@cons3qu3nc3s-E8DED2?style=for-the-badge&logo=telegram&logoColor=0088CC&labelColor=D4C4A8&color=5D4E37" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="https://vk.com/sayzeromi">
-    <img src="https://img.shields.io/badge/VK-sayzeromi-C5CAE9?style=for-the-badge&logo=vk&logoColor=1976D2&labelColor=B4B9D9&color=3949AB" alt="VK" />
-  </a>
-  &nbsp;
-  <a href="https://youtube.com/@sayomiyori">
-    <img src="https://img.shields.io/badge/YouTube-@sayomiyori-FFE0E6?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=F5C6D0&color=8D4F5A" alt="YouTube" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sayomiyori">
-    <img src="https://img.shields.io/badge/GitHub-sayomiyori-CFD8DC?style=for-the-badge&logo=github&logoColor=37474F&labelColor=B0BEC5&color=455A64" alt="GitHub" />
-  </a>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-cons3qu3nc3s-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/cons3qu3nc3s)
+[![VK](https://img.shields.io/badge/VK-sayzeromi-4C75A3?style=flat-square&logo=vk&logoColor=white)](https://vk.com/sayzeromi)
+[![YouTube](https://img.shields.io/badge/YouTube-sayomiyori-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@sayomiyori)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sayomiyori.github.io-00b894?style=flat-square&logo=githubpages&logoColor=white)](https://sayomiyori.github.io/)
 
-<p align="center">
-  <a href="https://sayomiyori.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Open_→-B2DFDB?style=for-the-badge&logo=link&logoColor=00695C&labelColor=80CBC4&color=00695C" alt="Portfolio" />
-  </a>
-</p>
+</div>
+
+---
+
+## О себе
+
+Junior-разработчик с коммерческим опытом — два Telegram-бота сданы реальным заказчикам через **Kwork**.  
+Пишу на **Python** (FastAPI, aiogram, asyncio), **C#** (WPF/MVVM) и **C++** (WinAPI, low-level).  
+Умею довести задачу до конца: архитектура → тесты → деплой → сдача.
+
+```python
+stack = {
+    "primary":  ["Python", "FastAPI", "aiogram", "asyncio"],
+    "database": ["PostgreSQL", "SQLite", "SQLAlchemy 2", "Alembic"],
+    "auth":     ["JWT", "bcrypt", "Pydantic"],
+    "devops":   ["Docker", "Docker Compose", "Railway", "Git"],
+    "desktop":  ["C#", "WPF", "MVVM", "SQL Server"],
+    "systems":  ["C++", "WinAPI", "multithreading", "low-level hooks"],
+    "tests":    ["pytest", "pytest-cov", "pytest-asyncio"],
+}
+```
 
 ---
 
 ## 🛠 Tech Stack
 
-### General
+### Backend & API
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-      <br /><strong>HTML5</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" />
+      <br /><sub><b>Python</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-      <br /><strong>CSS3</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" />
+      <br /><sub><b>FastAPI</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br /><strong>JavaScript</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="36" height="36" />
+      <br /><sub><b>SQLAlchemy</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      <br /><strong>Git</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" />
+      <br /><sub><b>PostgreSQL</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-      <br /><strong>Figma</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36" height="36" />
+      <br /><sub><b>SQLite</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-      <br /><strong>GitHub</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="36" height="36" />
+      <br /><sub><b>pytest</b></sub>
     </td>
   </tr>
 </table>
 
-### Backend
+### Desktop & Systems
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br /><strong>Python</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36" />
+      <br /><sub><b>C#</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
-      <br /><strong>SQLite</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" />
+      <br /><sub><b>WPF / .NET</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" height="40" alt="aiogram" />
-      <br /><strong>aiogram</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" />
+      <br /><sub><b>C++</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="asyncio" />
-      <br /><strong>asyncio</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="36" height="36" />
+      <br /><sub><b>WinAPI</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" />
+      <br /><sub><b>SQL Server</b></sub>
     </td>
   </tr>
 </table>
 
-### Desktop
+### DevOps & Tools
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-      <br /><strong>C#</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" />
+      <br /><sub><b>Docker</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-      <br /><strong>C++</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" />
+      <br /><sub><b>Git</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="WPF" />
-      <br /><strong>WPF</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" />
+      <br /><sub><b>GitHub</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="WinAPI" />
-      <br /><strong>WinAPI</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" />
+      <br /><sub><b>Figma</b></sub>
     </td>
   </tr>
 </table>
 
-### Frontend & Tools
+### Frontend
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
-      <br /><strong>HTML</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" />
+      <br /><sub><b>HTML5</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
-      <br /><strong>CSS</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" />
+      <br /><sub><b>CSS3</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />
-      <br /><strong>JS</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" />
+      <br /><sub><b>JavaScript</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub Pages" />
-      <br /><strong>GitHub Pages</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender" />
-      <br /><strong>Blender</strong>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" />
+      <br /><sub><b>GitHub Pages</b></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📦 Ключевые проекты
+## 📦 Проекты
 
-| Проект | Стек | Описание | Демо |
-|--------|------|----------|------|
-| [**BodyTellingBot**](https://github.com/sayomiyori/BodyTellingTelegramBot) | Python · aiogram · SQLite | Бот для фитнес-клуба: опросы, подбор тренировок, достижения | — |
-| [**HotkeyManager**](https://github.com/sayomiyori/HotkeyManager) | C++ · WinAPI | Менеджер горячих клавиш с low-level перехватом ввода | — |
-| [**ProcessMonitor**](https://github.com/sayomiyori/ProcessMonitor) | C++ · WinAPI | Системный монитор процессов, аналог Process Explorer | — |
-| [**NailLanding**](https://github.com/sayomiyori/NailLanding) | HTML · CSS · JS | Лендинг мастера маникюра | [▶ Live](https://sayomiyori.github.io/NailLanding/) |
-| [**CakesLanding**](https://github.com/sayomiyori/cakesLanding) | HTML · CSS · JS | Лендинг кондитера | [▶ Live](https://sayomiyori.github.io/cakesLanding/) |
+| # | Проект | Стек | Описание |
+|---|--------|------|----------|
+| 🔥 | [**ChillLibrary**](https://github.com/sayomiyori/ChillLibraryTgBot) | Python · aiogram · Docker · Railway · Google APIs · Gemini | Коммерческий заказ (Kwork). Ищет книги 3 способами: по названию, обложке (OCR), цитате |
+| 🔥 | [**BookFinder API**](https://github.com/sayomiyori/BookFinder-API) | FastAPI · PostgreSQL · SQLAlchemy 2 · JWT · Alembic · Docker | REST API: регистрация, JWT-авторизация, поиск книг, избранное, 10 эндпоинтов |
+| ⚡ | [**BodyTelling Bot**](https://github.com/sayomiyori/BodyTellingTelegramBot) | Python · aiogram · SQLite · APScheduler · pytest | Коммерческий заказ (Kwork). Фитнес-бот: подбор тренировок, геймификация, напоминания |
+| 🖥 | [**FurnitureStore**](https://github.com/sayomiyori/FurnitureStore) | C# · WPF · MVVM · SQL Server | Desktop e-commerce: авторизация, каталог, корзина, доставка, платежи |
+| ⚙️ | [**HotkeyManager**](https://github.com/sayomiyori/HotkeyManager) | C++ · WinAPI · JSON | Low-level перехват ввода, многопоточное ядро, JSON-конфиг |
+| 🔍 | [**ProcessMonitor**](https://github.com/sayomiyori/ProcessMonitor) | C++ · WinAPI · GUI | Аналог Process Explorer: дерево процессов, права доступа |
+| 🌐 | [**NailLanding**](https://github.com/sayomiyori/NailLanding) | HTML · CSS · JS | Лендинг мастера маникюра · [▶ Live](https://sayomiyori.github.io/NailLanding/) |
+| 🌐 | [**CakesLanding**](https://github.com/sayomiyori/cakesLanding) | HTML · CSS · JS | Лендинг кондитера · [▶ Live](https://sayomiyori.github.io/cakesLanding/) |
 
 ---
 
-## 📈 GitHub
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sayomiyori&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/sayomiyori">📊 Статистика и граф контрибуций на GitHub</a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayomiyori&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayomiyori&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sayomiyori&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 📬 Связаться
 
-Сейчас углубляюсь в backend на **Python** и десктоп на **C#**. Открыт к пет-проектам и коллаборациям.
+Открыт к первой работе (Junior Python / C# / C++) и коллаборациям.
 
-👉 **Написать:** [Telegram](https://t.me/cons3qu3nc3s) · [VK](https://vk.com/sayzeromi)  
-👉 **Портфолио:** [**sayomiyori.github.io** →](https://sayomiyori.github.io/)
+**👉** [Telegram](https://t.me/cons3qu3nc3s) · [VK](https://vk.com/sayzeromi) · [Portfolio](https://sayomiyori.github.io/)
