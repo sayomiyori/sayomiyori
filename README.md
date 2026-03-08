@@ -191,6 +191,8 @@ Desktop e-commerce: авторизация,
 
 [▶ NailLanding](https://sayomiyori.github.io/NailLanding/) — маникюр  
 [▶ CakesLanding](https://sayomiyori.github.io/cakesLanding/) — кондитер
+[▶ Detox Detail](https://sayomiyori.github.io/DetailingLanding/) — детэйлинг
+[▶ PixelLaunch](https://sayomiyori.github.io/LandingSites/) — студия
 
 Mobile-first · без фреймворков  
 GitHub Pages
