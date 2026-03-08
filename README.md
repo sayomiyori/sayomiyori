@@ -4,9 +4,9 @@
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-cons3qu3nc3s-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cons3qu3nc3s)
-[![VK](https://img.shields.io/badge/VK-sayzeromi-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/sayzeromi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sayomiyori.github.io-E8A838?style=for-the-badge&logo=github&logoColor=white)](https://sayomiyori.github.io/)
+[![Telegram](https://img.shields.io/badge/Telegram-cons3qu3nc3s-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a7fc4)](https://t.me/cons3qu3nc3s)
+[![VK](https://img.shields.io/badge/VK-sayzeromi-4C75A3?style=for-the-badge&logo=vk&logoColor=white&labelColor=2a5a8a)](https://vk.com/sayzeromi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sayomiyori.github.io-E8A838?style=for-the-badge&logo=github&logoColor=white&labelColor=c47a10)](https://sayomiyori.github.io/)
 
 </div>
 
@@ -112,10 +112,10 @@ class Matvey:
 
 ### 🤖 [ChillLibrary Bot](https://github.com/sayomiyori/ChillLibraryTgBot)
 
-![КОММЕРЧЕСКИЙ](https://img.shields.io/badge/💼_КОММЕРЧЕСКИЙ-Kwork-2e6b2e?style=flat-square)
-![Python](https://img.shields.io/badge/Python-c8501a?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1a6aaa?style=flat-square&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-2a2a3a?style=flat-square&logo=railway&logoColor=white)
+![КОММЕРЧЕСКИЙ](https://img.shields.io/badge/💼_КОММЕРЧЕСКИЙ-Kwork-4CAF50?style=flat-square&labelColor=2e7d32&color=4CAF50)
+![Python](https://img.shields.io/badge/Python-c8501a?style=flat-square&logo=python&logoColor=white&labelColor=a03a10)
+![Docker](https://img.shields.io/badge/Docker-1a6aaa?style=flat-square&logo=docker&logoColor=white&labelColor=0a4a8a)
+![Railway](https://img.shields.io/badge/Railway-4a4a6a?style=flat-square&logo=railway&logoColor=white&labelColor=2a2a4a)
 
 Поиск книг **3 способами**: по названию,  
 обложке (OCR), цитате (Gemini AI).  
@@ -126,10 +126,10 @@ class Matvey:
 
 ### 📚 [BookFinder API](https://github.com/sayomiyori/BookFinder-API)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-c07a1a?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b84a1a?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-a0521a?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-d4621a?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-c07a1a?style=flat-square&logo=fastapi&logoColor=white&labelColor=8a4a00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b84a1a?style=flat-square&logo=postgresql&logoColor=white&labelColor=8a2a00)
+![JWT](https://img.shields.io/badge/JWT-a0521a?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=7a3000)
+![Alembic](https://img.shields.io/badge/Alembic-d4621a?style=flat-square&logo=python&logoColor=white&labelColor=a03a00)
 
 REST API: **10 эндпоинтов**, JWT-авторизация,  
 SQLAlchemy 2, Alembic-миграции,  
@@ -142,10 +142,10 @@ Docker Compose.
 
 ### 💪 [BodyTelling Bot](https://github.com/sayomiyori/BodyTellingTelegramBot)
 
-![КОММЕРЧЕСКИЙ](https://img.shields.io/badge/💼_КОММЕРЧЕСКИЙ-Kwork-2e6b2e?style=flat-square)
-![Python](https://img.shields.io/badge/Python-c8501a?style=flat-square&logo=python&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-c4601a?style=flat-square&logo=pytest&logoColor=white)
-![APScheduler](https://img.shields.io/badge/APScheduler-aa5a00?style=flat-square&logo=python&logoColor=white)
+![КОММЕРЧЕСКИЙ](https://img.shields.io/badge/💼_КОММЕРЧЕСКИЙ-Kwork-4CAF50?style=flat-square&labelColor=2e7d32&color=4CAF50)
+![Python](https://img.shields.io/badge/Python-c8501a?style=flat-square&logo=python&logoColor=white&labelColor=a03a10)
+![pytest](https://img.shields.io/badge/pytest-c4601a?style=flat-square&logo=pytest&logoColor=white&labelColor=8a3a00)
+![APScheduler](https://img.shields.io/badge/APScheduler-aa5a00?style=flat-square&logo=python&logoColor=white&labelColor=7a3a00)
 
 Фитнес-бот: подбор тренировок по  
 **5 параметрам**, геймификация,  
@@ -156,9 +156,9 @@ Docker Compose.
 
 ### ⌨️ [HotkeyManager](https://github.com/sayomiyori/HotkeyManager)
 
-![C++](https://img.shields.io/badge/C++-2a5aaa?style=flat-square&logo=cplusplus&logoColor=white)
-![WinAPI](https://img.shields.io/badge/WinAPI-1a5a9a?style=flat-square&logo=windows&logoColor=white)
-![Multithreading](https://img.shields.io/badge/Multithreading-6a3a9a?style=flat-square&logo=windows&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2a5aaa?style=flat-square&logo=cplusplus&logoColor=white&labelColor=1a3a8a)
+![WinAPI](https://img.shields.io/badge/WinAPI-1a5a9a?style=flat-square&logo=windows&logoColor=white&labelColor=0a3a7a)
+![Multithreading](https://img.shields.io/badge/Multithreading-6a3a9a?style=flat-square&logo=windows&logoColor=white&labelColor=4a2a7a)
 
 Low-level перехват ввода на уровне ОС.  
 Многопоточное ядро,  
@@ -171,10 +171,10 @@ JSON-конфиг без перекомпиляции.
 
 ### 🖥️ [FurnitureStore](https://github.com/sayomiyori/FurnitureStore)
 
-![C#](https://img.shields.io/badge/C%23-2a8a3a?style=flat-square&logo=c-sharp&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-6a3a9a?style=flat-square&logo=dotnet&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-7a3a9a?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-aa2a2a?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-2a8a3a?style=flat-square&logo=c-sharp&logoColor=white&labelColor=1a6a2a)
+![WPF](https://img.shields.io/badge/WPF-6a3a9a?style=flat-square&logo=dotnet&logoColor=white&labelColor=4a2a7a)
+![MVVM](https://img.shields.io/badge/MVVM-7a3a9a?style=flat-square&logo=dotnet&logoColor=white&labelColor=5a2a8a)
+![SQL Server](https://img.shields.io/badge/SQL_Server-aa2a2a?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=8a0a0a)
 
 Desktop e-commerce: авторизация,  
 каталог, корзина, доставка, платежи.  
@@ -185,9 +185,9 @@ Desktop e-commerce: авторизация,
 
 ### 🌐 Live Demo
 
-![HTML5](https://img.shields.io/badge/HTML5-b84a14?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1a5aaa?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-aa8a00?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-b84a14?style=flat-square&logo=html5&logoColor=white&labelColor=8a2a00)
+![CSS3](https://img.shields.io/badge/CSS3-1a5aaa?style=flat-square&logo=css3&logoColor=white&labelColor=0a3a8a)
+![JS](https://img.shields.io/badge/JavaScript-aa8a00?style=flat-square&logo=javascript&logoColor=white&labelColor=7a5a00)
 
 [▶ NailLanding](https://sayomiyori.github.io/NailLanding/) — маникюр  
 [▶ CakesLanding](https://sayomiyori.github.io/cakesLanding/) — кондитер
@@ -232,7 +232,7 @@ GitHub Pages
 
 **Открыт к первой работе · Junior Python / C# / C++ · Remote**
 
-[![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cons3qu3nc3s)
+[![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a7fc4)](https://t.me/cons3qu3nc3s)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sayomiyori&color=E8A838&style=flat-square&label=Profile+Views)
 
