@@ -143,6 +143,7 @@
 
 | Проект | Стек | Описание | Демо |
 |--------|------|----------|------|
+|| [**ChillLibraryTgBot**](https://github.com/sayomiyori/ChillLibraryTgBot) | Python · aiogram  | Telegram-бот для поиска книг по названию, фотографии на обложке (OCR) или цитате (AI). Ссылки на скачивание в различных форматах, рекомендации. Python, aiogram, Google Books/Vision/Gemini | — |
 | [**BodyTellingBot**](https://github.com/sayomiyori/BodyTellingTelegramBot) | Python · aiogram · SQLite | Бот для фитнес-клуба: опросы, подбор тренировок, достижения | — |
 | [**HotkeyManager**](https://github.com/sayomiyori/HotkeyManager) | C++ · WinAPI | Менеджер горячих клавиш с low-level перехватом ввода | — |
 | [**ProcessMonitor**](https://github.com/sayomiyori/ProcessMonitor) | C++ · WinAPI | Системный монитор процессов, аналог Process Explorer | — |
