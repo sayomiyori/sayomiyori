@@ -1,209 +1,174 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFB347&center=true&vCenter=true&width=650&height=70&lines=Hey%2C+I'm+Matvey+%F0%9F%91%8B;Junior+Software+Developer;Python+%C2%B7+FastAPI+%C2%B7+C%23+%C2%B7+C%2B%2B;Building+things+that+actually+work)](https://git.io/typing-svg)
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=sayomiyori&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Python%20Backend%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=FastAPI+%C2%B7+Django+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Docker;Building+production-ready+backend+services" alt="Typing SVG" /></a>
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-cons3qu3nc3s-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a7fc4)](https://t.me/cons3qu3nc3s)
-[![VK](https://img.shields.io/badge/VK-sayzeromi-4C75A3?style=for-the-badge&logo=vk&logoColor=white&labelColor=2a5a8a)](https://vk.com/sayzeromi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sayomiyori.github.io-E8A838?style=for-the-badge&logo=github&logoColor=white&labelColor=c47a10)](https://sayomiyori.github.io/)
+<!-- SOCIAL BADGES -->
+[![GitHub](https://img.shields.io/badge/GitHub-sayomiyori-181717?style=flat-square&logo=github)](https://github.com/sayomiyori)
+[![Kwork](https://img.shields.io/badge/Kwork-sayomiyori-ff6600?style=flat-square)](https://kwork.ru/user/sayomiyori)
+[![Email](https://img.shields.io/badge/Email-flamxd@mail.ru-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:flamxd@mail.ru)
 
 </div>
 
 ---
 
-## 👾 О себе
-
-Junior-разработчик с **коммерческим опытом** — два Telegram-бота сданы реальным заказчикам через **Kwork**.  
-Строю всё сам: архитектура → тесты → деплой → сдача. Весь код здесь, на GitHub.
+## 🧑‍💻 About
 
 ```python
-class Matvey:
-    location  = "Симферополь / Remote 🇷🇺"
-    timezone  = "UTC+3 (МСК)"
-
-    stack = {
-        "primary":  ["Python", "FastAPI", "aiogram", "asyncio"],
-        "database": ["PostgreSQL", "SQLAlchemy 2", "Alembic", "SQLite"],
-        "auth":     ["JWT", "bcrypt", "Pydantic"],
-        "devops":   ["Docker", "Docker Compose", "Railway", "Git"],
-        "desktop":  ["C#", "WPF", "MVVM", "SQL Server"],
-        "systems":  ["C++", "WinAPI", "multithreading", "low-level hooks"],
-        "tests":    ["pytest", "pytest-cov", "pytest-asyncio"],
-        "frontend": ["HTML5", "CSS3", "Vanilla JS", "GitHub Pages"],
-        "creative": ["Figma", "Blender", "After Effects", "Aseprite"],
-    }
-
-    commercial = ["ChillLibraryTgBot ✅", "BodyTellingTelegramBot ✅"]
-    open_to    = "Junior Python / C# / C++ · Remote"
+class SayomiYori:
+    role      = "Python Backend Developer"
+    location  = "Simferopol / Remote 🇷🇺"
+    education = "Crimean Federal University (CS, 2028)"
+    
+    focus = [
+        "Microservices (Django + FastAPI + RabbitMQ)",
+        "Event-driven architecture & message brokers",
+        "CI/CD pipelines, Docker, Observability",
+        "WebSockets & real-time systems",
+    ]
+    
+    looking_for = "Backend position in a team with code review & engineering culture"
 ```
 
 ---
 
-## 🛠 Tech Stack
-
-### 🐍 Backend & API
+## ⚡ Tech Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,docker,git&theme=dark&perline=6)](https://skillicons.dev)
+**Core Backend**
 
-![Python](https://img.shields.io/badge/Python-c8501a?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-c07a1a?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b84a1a?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-d4621a?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-b86a2a?style=for-the-badge&logo=sqlite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-a0521a?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-c4601a?style=for-the-badge&logo=pytest&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-1a6a9a?style=for-the-badge&logo=telegram&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
 
-</div>
+**Data & Messaging**
 
-### 🖥 Desktop & Systems
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-<div align="center">
+**Infrastructure & DevOps**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,windows&theme=dark&perline=4)](https://skillicons.dev)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![C#](https://img.shields.io/badge/C%23-2a8a3a?style=for-the-badge&logo=c-sharp&logoColor=white)
-![WPF .NET](https://img.shields.io/badge/.NET_WPF-6a3a9a?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-2a5aaa?style=for-the-badge&logo=cplusplus&logoColor=white)
-![WinAPI](https://img.shields.io/badge/WinAPI-1a5a9a?style=for-the-badge&logo=windows&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-aa2a2a?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+**Quality & Observability**
 
-</div>
-
-### ⚙️ DevOps & Tools
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark&perline=4)](https://skillicons.dev)
-
-![Docker](https://img.shields.io/badge/Docker-1a6aaa?style=for-the-badge&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-2a2a3a?style=for-the-badge&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-c84a14?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2a2a4a?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-### 🌐 Frontend & Creative
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,unity,blender&theme=dark&perline=6)](https://skillicons.dev)
-
-![HTML5](https://img.shields.io/badge/HTML5-b84a14?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1a5aaa?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-aa8a00?style=for-the-badge&logo=javascript&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-aa2a1a?style=for-the-badge&logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-2a2a2a?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-aa5a00?style=for-the-badge&logo=blender&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 </div>
 
 ---
 
-## 🔥 Проекты
+## 🏗️ Featured Projects
 
-<div align="center">
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🤖 [ChillLibrary Bot](https://github.com/sayomiyori/ChillLibraryTgBot)
+### 🔀 [TaskFlow](https://github.com/sayomiyori/TaskFlow)
+**Microservice task platform — Django + FastAPI + RabbitMQ**
 
-![КОММЕРЧЕСКИЙ](https://img.shields.io/badge/💼_КОММЕРЧЕСКИЙ-Kwork-4CAF50?style=flat-square&labelColor=2e7d32&color=4CAF50)
-![Python](https://img.shields.io/badge/Python-c8501a?style=flat-square&logo=python&logoColor=white&labelColor=a03a10)
-![Docker](https://img.shields.io/badge/Docker-1a6aaa?style=flat-square&logo=docker&logoColor=white&labelColor=0a4a8a)
-![Railway](https://img.shields.io/badge/Railway-4a4a6a?style=flat-square&logo=railway&logoColor=white&labelColor=2a2a4a)
+`Django 5` `DRF` `FastAPI` `RabbitMQ` `Redis` `Channels` `Nginx` `Docker`
 
-Поиск книг **3 способами**: по названию,  
-обложке (OCR), цитате (Gemini AI).  
-Деплой 24/7 на Railway.
+- 🏛️ 2 microservices: Django API + FastAPI notification consumer
+- 📡 RabbitMQ topic exchange (task.created, task.updated)
+- ⚡ WebSocket updates via Django Channels + Redis
+- 🔒 JWT auth, role-based permissions, django-filter
+- 🌐 Nginx reverse proxy with rate limiting
+- 🧪 pytest + factory_boy, CI/CD on GitHub Actions
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
+
+### 🪝 [WebHook Manager](https://github.com/sayomiyori/WebHook_Manager)
+**SaaS platform for reliable webhook delivery**
+
+`FastAPI` `Celery` `Redis` `PostgreSQL` `Prometheus` `Sentry` `Docker`
+
+- 🔄 Celery delivery: exponential backoff (10s→1h), 5 retries
+- 🔑 Idempotent intake (X-Idempotency-Key) + HMAC verification
+- 🔌 Redis circuit breaker — no events lost
+- 🏗️ Clean Architecture (domain/services/infrastructure/api)
+- 📊 Prometheus metrics, Sentry, structlog (JSON + correlation ID)
+- 🧪 >80% coverage, CI: ruff + mypy strict → pytest → auto-deploy
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [RealTimeChat](https://github.com/sayomiyori/RealTimeChat)
+**WebSocket chat with horizontal scaling**
+
+`FastAPI` `WebSocket` `Redis Pub/Sub` `PostgreSQL` `JWT` `Docker`
+
+- 📡 Redis Pub/Sub fan-out across multiple API replicas
+- 💬 Room-based messaging with history (last 50 on connect)
+- ⌨️ Typing indicators (real-time, not persisted)
+- 🔐 JWT auth on WebSocket connections
+- 🧪 CI + Codecov, async stack (asyncpg + redis.asyncio)
+
+</td>
+<td width="50%" valign="top">
 
 ### 📚 [BookFinder API](https://github.com/sayomiyori/BookFinder-API)
+**REST API for book search & cataloging**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-c07a1a?style=flat-square&logo=fastapi&logoColor=white&labelColor=8a4a00)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b84a1a?style=flat-square&logo=postgresql&logoColor=white&labelColor=8a2a00)
-![JWT](https://img.shields.io/badge/JWT-a0521a?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=7a3000)
-![Alembic](https://img.shields.io/badge/Alembic-d4621a?style=flat-square&logo=python&logoColor=white&labelColor=a03a00)
+`FastAPI` `PostgreSQL` `SQLAlchemy 2` `JWT` `Prometheus` `Grafana` `Docker`
 
-REST API: **10 эндпоинтов**, JWT-авторизация,  
-SQLAlchemy 2, Alembic-миграции,  
-Docker Compose.
+- 📖 10 endpoints (/api/v1/), Google Books integration
+- 🗄️ Async PostgreSQL + Alembic migrations
+- 📊 Prometheus + Grafana: error rate, latency p95, RPS
+- 🔄 CI/CD: ruff → pytest (87% coverage) → Docker → auto-deploy
+- 📝 Pydantic v2, Swagger UI, CORS
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
+
+### 🤖 [ChillLibrary Bot](https://github.com/sayomiyori/ChillLibraryTgBot)
+**Telegram book search bot — commercial project**
+
+`aiogram` `aiohttp` `Google APIs` `Gemini AI` `Docker`
+
+- 🔍 3 search modes: title, book cover (Vision OCR), quote (Gemini AI)
+- 📦 Full cycle: spec → architecture → dev → tests → deploy → docs
+- 🏛️ Layered architecture (handlers/services/utils)
+- ✅ Delivered to client, accepted without revisions
+
+</td>
+<td width="50%" valign="top">
 
 ### 💪 [BodyTelling Bot](https://github.com/sayomiyori/BodyTellingTelegramBot)
+**Fitness club Telegram bot — commercial project**
 
-![КОММЕРЧЕСКИЙ](https://img.shields.io/badge/💼_КОММЕРЧЕСКИЙ-Kwork-4CAF50?style=flat-square&labelColor=2e7d32&color=4CAF50)
-![Python](https://img.shields.io/badge/Python-c8501a?style=flat-square&logo=python&logoColor=white&labelColor=a03a10)
-![pytest](https://img.shields.io/badge/pytest-c4601a?style=flat-square&logo=pytest&logoColor=white&labelColor=8a3a00)
-![APScheduler](https://img.shields.io/badge/APScheduler-aa5a00?style=flat-square&logo=python&logoColor=white&labelColor=7a3a00)
+`aiogram` `APScheduler` `pytest`
 
-Фитнес-бот: подбор тренировок по  
-**5 параметрам**, геймификация,  
-автонапоминания.
-
-</td>
-<td width="50%" align="center">
-
-### ⌨️ [HotkeyManager](https://github.com/sayomiyori/HotkeyManager)
-
-![C++](https://img.shields.io/badge/C++-2a5aaa?style=flat-square&logo=cplusplus&logoColor=white&labelColor=1a3a8a)
-![WinAPI](https://img.shields.io/badge/WinAPI-1a5a9a?style=flat-square&logo=windows&logoColor=white&labelColor=0a3a7a)
-![Multithreading](https://img.shields.io/badge/Multithreading-6a3a9a?style=flat-square&logo=windows&logoColor=white&labelColor=4a2a7a)
-
-Low-level перехват ввода на уровне ОС.  
-Многопоточное ядро,  
-JSON-конфиг без перекомпиляции.
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🖥️ [FurnitureStore](https://github.com/sayomiyori/FurnitureStore)
-
-![C#](https://img.shields.io/badge/C%23-2a8a3a?style=flat-square&logo=c-sharp&logoColor=white&labelColor=1a6a2a)
-![WPF](https://img.shields.io/badge/WPF-6a3a9a?style=flat-square&logo=dotnet&logoColor=white&labelColor=4a2a7a)
-![MVVM](https://img.shields.io/badge/MVVM-7a3a9a?style=flat-square&logo=dotnet&logoColor=white&labelColor=5a2a8a)
-![SQL Server](https://img.shields.io/badge/SQL_Server-aa2a2a?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=8a0a0a)
-
-Desktop e-commerce: авторизация,  
-каталог, корзина, доставка, платежи.  
-Полный цикл.
-
-</td>
-<td width="50%" align="center">
-
-### 🌐 Live Demo
-
-![HTML5](https://img.shields.io/badge/HTML5-b84a14?style=flat-square&logo=html5&logoColor=white&labelColor=8a2a00)
-![CSS3](https://img.shields.io/badge/CSS3-1a5aaa?style=flat-square&logo=css3&logoColor=white&labelColor=0a3a8a)
-![JS](https://img.shields.io/badge/JavaScript-aa8a00?style=flat-square&logo=javascript&logoColor=white&labelColor=7a5a00)
-
-[▶ NailLanding](https://sayomiyori.github.io/NailLanding/) — маникюр
-
-[▶ CakesLanding](https://sayomiyori.github.io/cakesLanding/) — кондитер
-
-[▶ Detox Detail](https://sayomiyori.github.io/DetailingLanding/) — детэйлинг
-
-[▶ PixelLaunch](https://sayomiyori.github.io/LandingSites/) — студия
-
-Mobile-first · без фреймворков  
-GitHub Pages
+- 🎯 Workout selection algorithm by 5 parameters
+- 🔥 Retention mechanics: streaks, achievements, auto-reminders (TZ-aware)
+- 📦 Modular codebase, pytest + conftest
+- ✅ Commercial delivery with full documentation
 
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
@@ -211,23 +176,12 @@ GitHub Pages
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sayomiyori&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=sayomiyori&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayomiyori&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sayomiyori&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/sayomiyori/sayomiyori/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayomiyori&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170"/>
 
 </div>
 
@@ -235,10 +189,16 @@ GitHub Pages
 
 <div align="center">
 
-**Открыт к первой работе · Junior Python / C# / C++ · Remote**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayomiyori&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%"/>
 
-[![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a7fc4)](https://t.me/cons3qu3nc3s)
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sayomiyori&color=E8A838&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=sayomiyori&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile views"/>
+
+<br/><br/>
+
+**Open to opportunities · Python Backend Developer · Remote**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=100&section=footer" width="100%"/>
