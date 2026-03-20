@@ -172,6 +172,22 @@ class SayomiYori:
 
 ---
 
+## 🧠 Architecture Decisions
+
+> Why this stack? Every choice is intentional.
+
+**TaskFlow** — Django for ORM-heavy domain logic (models, permissions, admin) + FastAPI for the async notification consumer. Each framework where it's strongest. RabbitMQ topic exchange instead of direct HTTP calls — write-side transactions stay decoupled from delivery, and adding new event handlers doesn't touch core API code.
+
+**WebHook Manager** — Celery with Redis broker for delivery retries because webhooks are fire-and-forget by nature — the caller shouldn't wait. Circuit breaker in Redis prevents hammering a dead endpoint. HMAC + idempotency key at the intake layer, not in business logic — infrastructure concern stays in infrastructure.
+
+**RealTimeChat** — Redis Pub/Sub instead of in-memory broadcast because in-memory only works within a single process. With Pub/Sub, scaling to N replicas is transparent — each instance subscribes to room channels and fans out locally. WebSocket auth via query param token, not headers, because browsers don't support custom headers on WS handshake.
+
+**BookFinder API** — Async SQLAlchemy 2 + asyncpg instead of sync ORM because the main bottleneck is I/O (database + Google Books API). Prometheus from day one, not as an afterthought — error rate spike is visible in the dashboard before the first bug report arrives.
+
+**ChillLibrary / BodyTelling** — Commercial projects built to spec. Layered architecture (handlers → services → utils) so the client's next developer can onboard without a call. Deployed on Railway with Docker — client doesn't need to maintain infrastructure.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
