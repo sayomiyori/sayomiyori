@@ -9,8 +9,10 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-sayomiyori.github.io-0d1117?style=for-the-badge&labelColor=1a3a2a&color=0d1117)](https://sayomiyori.github.io)
+
 [![GitHub](https://img.shields.io/badge/GitHub-sayomiyori-161b22?style=flat-square&logo=github&logoColor=a3d9b1)](https://github.com/sayomiyori)
-[![Kwork](https://img.shields.io/badge/Kwork-sayomiyori-161b22?style=flat-square&logo=freelancer&logoColor=a3d9b1)](https://kwork.ru/user/sayomiyori)
+[![Telegram](https://img.shields.io/badge/Telegram-@cons3qu3nc3s-161b22?style=flat-square&logo=telegram&logoColor=a3d9b1)](https://t.me/cons3qu3nc3s)
 [![Email](https://img.shields.io/badge/Email-flamxd@mail.ru-161b22?style=flat-square&logo=gmail&logoColor=a3d9b1)](mailto:flamxd@mail.ru)
 
 </div>
