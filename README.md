@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1117,60:0b1a0b,100:132f13&height=200&section=header&text=sayomiyori&fontSize=50&fontColor=39d353&fontAlignY=35&desc=Python%20Backend%20Developer&descSize=18&descColor=7ee787&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:101b2e,70:0f2b1e,100:1a3a2a&height=200&section=header&text=sayomiyori&fontSize=50&fontColor=a3d9b1&fontAlignY=35&desc=Python%20Backend%20Developer&descSize=18&descColor=7fb89e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=FastAPI+%C2%B7+Django+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Docker;Building+production-ready+backend+services" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A3D9B1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=FastAPI+%C2%B7+Django+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Docker;Building+production-ready+backend+services" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![GitHub](https://img.shields.io/badge/GitHub-sayomiyori-0d1117?style=flat-square&logo=github&logoColor=39d353)](https://github.com/sayomiyori)
-[![Kwork](https://img.shields.io/badge/Kwork-sayomiyori-0d1117?style=flat-square&logo=freelancer&logoColor=39d353)](https://kwork.ru/user/sayomiyori)
-[![Email](https://img.shields.io/badge/Email-flamxd@mail.ru-0d1117?style=flat-square&logo=gmail&logoColor=39d353)](mailto:flamxd@mail.ru)
+[![GitHub](https://img.shields.io/badge/GitHub-sayomiyori-161b22?style=flat-square&logo=github&logoColor=a3d9b1)](https://github.com/sayomiyori)
+[![Kwork](https://img.shields.io/badge/Kwork-sayomiyori-161b22?style=flat-square&logo=freelancer&logoColor=a3d9b1)](https://kwork.ru/user/sayomiyori)
+[![Email](https://img.shields.io/badge/Email-flamxd@mail.ru-161b22?style=flat-square&logo=gmail&logoColor=a3d9b1)](mailto:flamxd@mail.ru)
 
 </div>
 
@@ -43,31 +43,31 @@ class SayomiYori:
 
 **`Core Backend`**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39d353)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=39d353)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=39d353)
-![DRF](https://img.shields.io/badge/DRF-0d1117?style=for-the-badge&logo=django&logoColor=39d353)
+![Python](https://img.shields.io/badge/Python-1a2332?style=for-the-badge&logo=python&logoColor=a3d9b1)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a2332?style=for-the-badge&logo=fastapi&logoColor=a3d9b1)
+![Django](https://img.shields.io/badge/Django-1a2332?style=for-the-badge&logo=django&logoColor=a3d9b1)
+![DRF](https://img.shields.io/badge/DRF-1a2332?style=for-the-badge&logo=django&logoColor=a3d9b1)
 
 **`Data & Messaging`**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=39d353)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=39d353)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d1117?style=for-the-badge&logo=rabbitmq&logoColor=39d353)
-![Celery](https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=39d353)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a2332?style=for-the-badge&logo=postgresql&logoColor=a3d9b1)
+![Redis](https://img.shields.io/badge/Redis-1a2332?style=for-the-badge&logo=redis&logoColor=a3d9b1)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1a2332?style=for-the-badge&logo=rabbitmq&logoColor=a3d9b1)
+![Celery](https://img.shields.io/badge/Celery-1a2332?style=for-the-badge&logo=celery&logoColor=a3d9b1)
 
 **`Infrastructure & DevOps`**
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39d353)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=39d353)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=39d353)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39d353)
+![Docker](https://img.shields.io/badge/Docker-1a2332?style=for-the-badge&logo=docker&logoColor=a3d9b1)
+![Nginx](https://img.shields.io/badge/Nginx-1a2332?style=for-the-badge&logo=nginx&logoColor=a3d9b1)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a2332?style=for-the-badge&logo=githubactions&logoColor=a3d9b1)
+![Linux](https://img.shields.io/badge/Linux-1a2332?style=for-the-badge&logo=linux&logoColor=a3d9b1)
 
 **`Quality & Observability`**
 
-![Pytest](https://img.shields.io/badge/Pytest-0d1117?style=for-the-badge&logo=pytest&logoColor=39d353)
-![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=39d353)
-![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=39d353)
-![Sentry](https://img.shields.io/badge/Sentry-0d1117?style=for-the-badge&logo=sentry&logoColor=39d353)
+![Pytest](https://img.shields.io/badge/Pytest-1a2332?style=for-the-badge&logo=pytest&logoColor=a3d9b1)
+![Prometheus](https://img.shields.io/badge/Prometheus-1a2332?style=for-the-badge&logo=prometheus&logoColor=a3d9b1)
+![Grafana](https://img.shields.io/badge/Grafana-1a2332?style=for-the-badge&logo=grafana&logoColor=a3d9b1)
+![Sentry](https://img.shields.io/badge/Sentry-1a2332?style=for-the-badge&logo=sentry&logoColor=a3d9b1)
 
 </div>
 
@@ -176,12 +176,12 @@ class SayomiYori:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayomiyori&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=2ea043&text_color=c9d1d9&ring_color=39d353" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayomiyori&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sayomiyori&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a3d9b1&icon_color=7fb89e&text_color=b0b8c4&ring_color=a3d9b1" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayomiyori&layout=compact&hide_border=true&bg_color=0d1117&title_color=a3d9b1&text_color=b0b8c4&langs_count=8" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayomiyori&hide_border=true&background=0d1117&stroke=21262d&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=7ee787&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayomiyori&hide_border=true&background=0d1117&stroke=1e2a3a&ring=a3d9b1&fire=7fb89e&currStreakLabel=a3d9b1&sideLabels=7fb89e&currStreakNum=b0b8c4&sideNums=b0b8c4&dates=4a5568" height="170"/>
 
 </div>
 
@@ -199,11 +199,11 @@ class SayomiYori:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayomiyori&hide_border=true&bg_color=0d1117&color=39d353&line=2ea043&point=39d353&area=true&area_color=238636" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayomiyori&hide_border=true&bg_color=0d1117&color=a3d9b1&line=7fb89e&point=a3d9b1&area=true&area_color=1a3a2a" width="95%"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sayomiyori&style=flat-square&color=2ea043&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sayomiyori&style=flat-square&color=7fb89e&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
@@ -229,4 +229,4 @@ class SayomiYori:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1117,60:0b1a0b,100:132f13&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:101b2e,70:0f2b1e,100:1a3a2a&height=100&section=footer" width="100%"/>
