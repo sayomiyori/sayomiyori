@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=200&section=header&text=sayomiyori&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Python%20Backend%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1117,60:0b1a0b,100:132f13&height=200&section=header&text=sayomiyori&fontSize=50&fontColor=39d353&fontAlignY=35&desc=Python%20Backend%20Developer&descSize=18&descColor=7ee787&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=FastAPI+%C2%B7+Django+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Docker;Building+production-ready+backend+services" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=FastAPI+%C2%B7+Django+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Docker;Building+production-ready+backend+services" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![GitHub](https://img.shields.io/badge/GitHub-sayomiyori-181717?style=flat-square&logo=github)](https://github.com/sayomiyori)
-[![Kwork](https://img.shields.io/badge/Kwork-sayomiyori-ff6600?style=flat-square)](https://kwork.ru/user/sayomiyori)
-[![Email](https://img.shields.io/badge/Email-flamxd@mail.ru-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:flamxd@mail.ru)
+[![GitHub](https://img.shields.io/badge/GitHub-sayomiyori-0d1117?style=flat-square&logo=github&logoColor=39d353)](https://github.com/sayomiyori)
+[![Kwork](https://img.shields.io/badge/Kwork-sayomiyori-0d1117?style=flat-square&logo=freelancer&logoColor=39d353)](https://kwork.ru/user/sayomiyori)
+[![Email](https://img.shields.io/badge/Email-flamxd@mail.ru-0d1117?style=flat-square&logo=gmail&logoColor=39d353)](mailto:flamxd@mail.ru)
 
 </div>
 
@@ -41,33 +41,33 @@ class SayomiYori:
 
 <div align="center">
 
-**Core Backend**
+**`Core Backend`**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39d353)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=39d353)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=39d353)
+![DRF](https://img.shields.io/badge/DRF-0d1117?style=for-the-badge&logo=django&logoColor=39d353)
 
-**Data & Messaging**
+**`Data & Messaging`**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=39d353)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=39d353)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d1117?style=for-the-badge&logo=rabbitmq&logoColor=39d353)
+![Celery](https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=39d353)
 
-**Infrastructure & DevOps**
+**`Infrastructure & DevOps`**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39d353)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=39d353)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=39d353)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39d353)
 
-**Quality & Observability**
+**`Quality & Observability`**
 
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0d1117?style=for-the-badge&logo=pytest&logoColor=39d353)
+![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge&logo=prometheus&logoColor=39d353)
+![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge&logo=grafana&logoColor=39d353)
+![Sentry](https://img.shields.io/badge/Sentry-0d1117?style=for-the-badge&logo=sentry&logoColor=39d353)
 
 </div>
 
@@ -176,12 +176,22 @@ class SayomiYori:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayomiyori&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayomiyori&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sayomiyori&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=2ea043&text_color=c9d1d9&ring_color=39d353" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayomiyori&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayomiyori&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayomiyori&hide_border=true&background=0d1117&stroke=21262d&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=7ee787&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" height="170"/>
+
+</div>
+
+---
+
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
 
 </div>
 
@@ -189,11 +199,11 @@ class SayomiYori:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayomiyori&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayomiyori&hide_border=true&bg_color=0d1117&color=39d353&line=2ea043&point=39d353&area=true&area_color=238636" width="95%"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sayomiyori&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sayomiyori&style=flat-square&color=2ea043&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
@@ -219,4 +229,4 @@ class SayomiYori:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1117,60:0b1a0b,100:132f13&height=100&section=footer" width="100%"/>
