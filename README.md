@@ -13,7 +13,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-sayomiyori-161b22?style=flat-square&logo=github&logoColor=a3d9b1)](https://github.com/sayomiyori)
 [![Telegram](https://img.shields.io/badge/Telegram-@cons3qu3nc3s-161b22?style=flat-square&logo=telegram&logoColor=a3d9b1)](https://t.me/cons3qu3nc3s)
-[![Email](https://img.shields.io/badge/Email-flamxd@mail.ru-161b22?style=flat-square&logo=gmail&logoColor=a3d9b1)](mailto:flamxd@mail.ru)
+[![Gmail](https://img.shields.io/badge/Gmail-miyoricode@gmail.com-161b22?style=flat-square&logo=gmail&logoColor=a3d9b1)](mailto:miyoricode@gmail.com)
 
 </div>
 
