@@ -174,6 +174,10 @@ class SayomiYori:
 
 ---
 
+<img src="https://soundcloud-github-profile-nlsr.vercel.app/api/soundcloud?user=miyoricode&pool=10" />
+
+---
+
 ## 🧠 Architecture Decisions
 
 > Why this stack? Every choice is intentional.
