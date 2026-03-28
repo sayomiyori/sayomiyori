@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:101b2e,70:0f2b1e,100:1a3a2a&height=200&section=header&text=sayomiyori&fontSize=50&fontColor=a3d9b1&fontAlignY=35&desc=Python%20Backend%20Developer&descSize=18&descColor=7fb89e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A3D9B1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=FastAPI+%C2%B7+Django+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Docker;Building+production-ready+backend+services" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A3D9B1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=FastAPI+%C2%B7+Django+%C2%B7+Kafka+%C2%B7+gRPC+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Docker;Microservices+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+Kubernetes" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-sayomiyori-161b22?style=flat-square&logo=github&logoColor=a3d9b1)](https://github.com/sayomiyori)
 [![Telegram](https://img.shields.io/badge/Telegram-@cons3qu3nc3s-161b22?style=flat-square&logo=telegram&logoColor=a3d9b1)](https://t.me/cons3qu3nc3s)
-[![Gmail](https://img.shields.io/badge/Gmail-miyoricode@gmail.com-161b22?style=flat-square&logo=gmail&logoColor=a3d9b1)](mailto:miyoricode@gmail.com)
+[![Email](https://img.shields.io/badge/Email-flamxd@mail.ru-161b22?style=flat-square&logo=gmail&logoColor=a3d9b1)](mailto:flamxd@mail.ru)
 
 </div>
 
@@ -28,9 +28,10 @@ class SayomiYori:
     education = "Crimean Federal University (CS, 2028)"
     
     focus = [
-        "Microservices (Django + FastAPI + RabbitMQ)",
+        "Microservices (Django + FastAPI + RabbitMQ + Kafka + gRPC)",
         "Event-driven architecture & message brokers",
-        "CI/CD pipelines, Docker, Observability",
+        "AI/LLM: RAG (pgvector), Agents, MCP, multi-provider",
+        "CI/CD, Docker, Kubernetes, Observability",
         "WebSockets & real-time systems",
     ]
     
@@ -49,20 +50,30 @@ class SayomiYori:
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a2332?style=for-the-badge&logo=fastapi&logoColor=a3d9b1)
 ![Django](https://img.shields.io/badge/Django-1a2332?style=for-the-badge&logo=django&logoColor=a3d9b1)
 ![DRF](https://img.shields.io/badge/DRF-1a2332?style=for-the-badge&logo=django&logoColor=a3d9b1)
+![gRPC](https://img.shields.io/badge/gRPC-1a2332?style=for-the-badge&logo=google&logoColor=a3d9b1)
 
 **`Data & Messaging`**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a2332?style=for-the-badge&logo=postgresql&logoColor=a3d9b1)
 ![Redis](https://img.shields.io/badge/Redis-1a2332?style=for-the-badge&logo=redis&logoColor=a3d9b1)
+![Kafka](https://img.shields.io/badge/Kafka-1a2332?style=for-the-badge&logo=apachekafka&logoColor=a3d9b1)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1a2332?style=for-the-badge&logo=rabbitmq&logoColor=a3d9b1)
 ![Celery](https://img.shields.io/badge/Celery-1a2332?style=for-the-badge&logo=celery&logoColor=a3d9b1)
+
+**`AI / LLM`**
+
+![pgvector](https://img.shields.io/badge/pgvector-1a2332?style=for-the-badge&logo=postgresql&logoColor=a3d9b1)
+![Gemini](https://img.shields.io/badge/Gemini-1a2332?style=for-the-badge&logo=google&logoColor=a3d9b1)
+![MCP](https://img.shields.io/badge/MCP-1a2332?style=for-the-badge&logo=anthropic&logoColor=a3d9b1)
 
 **`Infrastructure & DevOps`**
 
 ![Docker](https://img.shields.io/badge/Docker-1a2332?style=for-the-badge&logo=docker&logoColor=a3d9b1)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a2332?style=for-the-badge&logo=kubernetes&logoColor=a3d9b1)
 ![Nginx](https://img.shields.io/badge/Nginx-1a2332?style=for-the-badge&logo=nginx&logoColor=a3d9b1)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a2332?style=for-the-badge&logo=githubactions&logoColor=a3d9b1)
 ![Linux](https://img.shields.io/badge/Linux-1a2332?style=for-the-badge&logo=linux&logoColor=a3d9b1)
+![MinIO](https://img.shields.io/badge/MinIO-1a2332?style=for-the-badge&logo=minio&logoColor=a3d9b1)
 
 **`Quality & Observability`**
 
@@ -81,6 +92,39 @@ class SayomiYori:
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 [AgentHub](https://github.com/sayomiyori/AgentHub)
+**AI platform — RAG + Agents + MCP + multi-provider LLM**
+
+`FastAPI` `pgvector` `Celery` `Redis` `Gemini` `MCP` `Docker` `Prometheus`
+
+- 🧠 RAG: chunk → embed (Gemini) → pgvector → rerank → cited answers
+- 🛠️ AI agents: function calling (KB search, calculator, web, datetime)
+- 🔌 MCP server (SSE) + external MCP client
+- 🔀 Multi-provider: Gemini / Anthropic / OpenAI per-request
+- 💰 Cost tracking: tokens + USD, usage stats API
+- ⚡ Semantic cache (Redis, cosine ≥ 0.95), Prometheus + Grafana
+
+</td>
+<td width="50%" valign="top">
+
+### 🔄 [EventPipe](https://github.com/sayomiyori/EventPipe)
+**Microservice ETL pipeline — Kafka + gRPC + S3 + K8s**
+
+`FastAPI` `gRPC` `Kafka` `PostgreSQL` `MinIO` `Kubernetes` `Prometheus` `Docker`
+
+- 🏛️ 3 microservices: Ingest (REST + gRPC) → Transform → Query
+- 📡 Kafka: topic partitions, consumer groups, Dead Letter Queue
+- 📦 MinIO (S3): raw events as immutable JSON, pre-signed URLs
+- 🔍 Query API: filters, pagination, aggregated stats
+- ☸️ Kubernetes manifests, Minikube, horizontal scaling
+- 📊 Prometheus + Grafana across all services
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 🔀 [TaskFlow](https://github.com/sayomiyori/TaskFlow)
 **Microservice task platform — Django + FastAPI + RabbitMQ**
 
@@ -91,9 +135,25 @@ class SayomiYori:
 - ⚡ WebSocket updates via Django Channels + Redis
 - 🔒 JWT auth, role-based permissions, django-filter
 - 🌐 Nginx reverse proxy with rate limiting
-- 🧪 pytest + factory_boy, CI/CD on GitHub Actions
 
 </td>
+<td width="50%" valign="top">
+
+### 🔗 [URLShort](https://github.com/sayomiyori/URLShort)
+**High-performance URL shortener — ~180 RPS, 0% failures**
+
+`FastAPI` `PostgreSQL` `Redis` `Nginx` `Locust` `Prometheus` `Grafana` `Docker`
+
+- ⚡ ~180 RPS, p50=4ms, p95=14ms (Locust, 500 users)
+- 🗄️ Redis: LRU cache, sliding window rate limiter, atomic counters
+- 🌍 GeoIP analytics: country, city, device, referers
+- 🌐 Nginx microcaching for 301 redirects
+- 📊 Prometheus + Grafana dashboard
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🪝 [WebHook Manager](https://github.com/sayomiyori/WebHook_Manager)
@@ -101,17 +161,12 @@ class SayomiYori:
 
 `FastAPI` `Celery` `Redis` `PostgreSQL` `Prometheus` `Sentry` `Docker`
 
-- 🔄 Celery delivery: exponential backoff (10s→1h), 5 retries
-- 🔑 Idempotent intake (X-Idempotency-Key) + HMAC verification
+- 🔄 Celery: exponential backoff (10s→1h), 5 retries
+- 🔑 Idempotent intake + HMAC verification
 - 🔌 Redis circuit breaker — no events lost
-- 🏗️ Clean Architecture (domain/services/infrastructure/api)
-- 📊 Prometheus metrics, Sentry, structlog (JSON + correlation ID)
-- 🧪 >80% coverage, CI: ruff + mypy strict → pytest → auto-deploy
+- 🏗️ Clean Architecture, >80% coverage
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 💬 [RealTimeChat](https://github.com/sayomiyori/RealTimeChat)
@@ -119,25 +174,10 @@ class SayomiYori:
 
 `FastAPI` `WebSocket` `Redis Pub/Sub` `PostgreSQL` `JWT` `Docker`
 
-- 📡 Redis Pub/Sub fan-out across multiple API replicas
-- 💬 Room-based messaging with history (last 50 on connect)
-- ⌨️ Typing indicators (real-time, not persisted)
-- 🔐 JWT auth on WebSocket connections
-- 🧪 CI + Codecov, async stack (asyncpg + redis.asyncio)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 [BookFinder API](https://github.com/sayomiyori/BookFinder-API)
-**REST API for book search & cataloging**
-
-`FastAPI` `PostgreSQL` `SQLAlchemy 2` `JWT` `Prometheus` `Grafana` `Docker`
-
-- 📖 10 endpoints (/api/v1/), Google Books integration
-- 🗄️ Async PostgreSQL + Alembic migrations
-- 📊 Prometheus + Grafana: error rate, latency p95, RPS
-- 🔄 CI/CD: ruff → pytest (87% coverage) → Docker → auto-deploy
-- 📝 Pydantic v2, Swagger UI, CORS
+- 📡 Redis Pub/Sub fan-out across N replicas
+- 💬 Room-based messaging with history
+- ⌨️ Typing indicators (real-time)
+- 🔐 JWT auth, async stack (asyncpg + redis.asyncio)
 
 </td>
 </tr>
@@ -145,28 +185,26 @@ class SayomiYori:
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [ChillLibrary Bot](https://github.com/sayomiyori/ChillLibraryTgBot)
-**Telegram book search bot — commercial project**
+### 📚 [BookFinder API](https://github.com/sayomiyori/BookFinder-API)
+**REST API for book search & cataloging**
 
-`aiogram` `aiohttp` `Google APIs` `Gemini AI` `Docker`
+`FastAPI` `PostgreSQL` `SQLAlchemy 2` `JWT` `Prometheus` `Grafana` `Docker`
 
-- 🔍 3 search modes: title, book cover (Vision OCR), quote (Gemini AI)
-- 📦 Full cycle: spec → architecture → dev → tests → deploy → docs
-- 🏛️ Layered architecture (handlers/services/utils)
-- ✅ Delivered to client, accepted without revisions
+- 📖 10 endpoints, Google Books integration
+- 📊 Prometheus + Grafana: error rate, latency p95, RPS
+- 🔄 CI/CD: ruff → pytest (87% cov) → Docker → auto-deploy
 
 </td>
 <td width="50%" valign="top">
 
-### 💪 [BodyTelling Bot](https://github.com/sayomiyori/BodyTellingTelegramBot)
-**Fitness club Telegram bot — commercial project**
+### 🤖 [ChillLibrary](https://github.com/sayomiyori/ChillLibraryTgBot) + [BodyTelling](https://github.com/sayomiyori/BodyTellingTelegramBot)
+**Commercial Telegram bots — delivered to clients**
 
-`aiogram` `APScheduler` `pytest`
+`aiogram` `Gemini AI` `Google APIs` `APScheduler` `pytest`
 
-- 🎯 Workout selection algorithm by 5 parameters
-- 🔥 Retention mechanics: streaks, achievements, auto-reminders (TZ-aware)
-- 📦 Modular codebase, pytest + conftest
-- ✅ Commercial delivery with full documentation
+- 🔍 ChillLibrary: 3 search modes (title, photo OCR, quote AI)
+- 💪 BodyTelling: workout algorithm, streaks, TZ-aware reminders
+- ✅ Both delivered and accepted without revisions
 
 </td>
 </tr>
@@ -178,15 +216,17 @@ class SayomiYori:
 
 > Why this stack? Every choice is intentional.
 
-**TaskFlow** — Django for ORM-heavy domain logic (models, permissions, admin) + FastAPI for the async notification consumer. Each framework where it's strongest. RabbitMQ topic exchange instead of direct HTTP calls — write-side transactions stay decoupled from delivery, and adding new event handlers doesn't touch core API code.
+**AgentHub** — pgvector inside PostgreSQL instead of a dedicated vector DB — single data layer, transactional consistency, simpler backups. Semantic cache in Redis with LSH bucketing: near-identical questions return cached answers without burning tokens. MCP server for interoperability — external agents can use AgentHub's knowledge base as a tool.
 
-**WebHook Manager** — Celery with Redis broker for delivery retries because webhooks are fire-and-forget by nature — the caller shouldn't wait. Circuit breaker in Redis prevents hammering a dead endpoint. HMAC + idempotency key at the intake layer, not in business logic — infrastructure concern stays in infrastructure.
+**EventPipe** — Kafka over RabbitMQ because the pipeline processes high-throughput event streams where ordering and replay matter. Separate Ingest/Transform/Query services with different scaling profiles. Dead Letter Queue as a separate topic — failed events don't block the main pipeline.
 
-**RealTimeChat** — Redis Pub/Sub instead of in-memory broadcast because in-memory only works within a single process. With Pub/Sub, scaling to N replicas is transparent — each instance subscribes to room channels and fans out locally. WebSocket auth via query param token, not headers, because browsers don't support custom headers on WS handshake.
+**TaskFlow** — Django for ORM-heavy domain logic + FastAPI for the async notification consumer. RabbitMQ topic exchange decouples write-side transactions from delivery.
 
-**BookFinder API** — Async SQLAlchemy 2 + asyncpg instead of sync ORM because the main bottleneck is I/O (database + Google Books API). Prometheus from day one, not as an afterthought — error rate spike is visible in the dashboard before the first bug report arrives.
+**URLShort** — Redis sliding window (ZSET) for rate limiting — exact per-second precision. Atomic counters + periodic flush reduce PG write load by ~100x. Nginx microcaching for 301 redirects — hot URLs served without hitting FastAPI.
 
-**ChillLibrary / BodyTelling** — Commercial projects built to spec. Layered architecture (handlers → services → utils) so the client's next developer can onboard without a call. Deployed on Railway with Docker — client doesn't need to maintain infrastructure.
+**WebHook Manager** — Celery for fire-and-forget delivery. Circuit breaker prevents hammering dead endpoints. HMAC + idempotency at infrastructure layer, not business logic.
+
+**RealTimeChat** — Redis Pub/Sub over in-memory broadcast — scaling to N replicas is transparent. WS auth via query param because browsers don't support custom headers on handshake.
 
 ---
 
