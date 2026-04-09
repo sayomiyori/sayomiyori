@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:101b2e,70:0f2b1e,100:1a3a2a&height=200&section=header&text=sayomiyori&fontSize=50&fontColor=a3d9b1&fontAlignY=35&desc=Python%20Backend%20Developer&descSize=18&descColor=7fb89e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A3D9B1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=FastAPI+%C2%B7+Django+%C2%B7+Kafka+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Docker;Microservices+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+Kubernetes" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A3D9B1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=FastAPI+%C2%B7+Django+%C2%B7+Kafka+%C2%B7+PostgreSQL+%C2%B7+Docker;Microservices+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+Kubernetes" alt="Typing SVG" /></a>
 
 <br/>
 
