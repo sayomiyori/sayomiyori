@@ -239,6 +239,16 @@ class SayomiYori:
 
 > Why this stack? Every choice is intentional.
 
+**Runner Diary / NeuroTrainer** — Qdrant over pgvector because retrieval and OLTP run on separate load profiles: vector ANN search with payload filters and collection versioning shouldn't compete with transactional writes on the same engine. Qdrant also gives hybrid search and quantization as first-class features without custom SQL.
+
+Two Claude models instead of one — Haiku handles low-latency paths (training analysis, short clarifications) where full reasoning is unnecessary; Sonnet takes complex chat and plan generation where instruction-following depth matters. Keeping both reduces per-request cost at volume without sacrificing quality on heavy tasks.
+
+GPT-4o-mini for categorization and embeddings, Claude for synthesis — right tool per pipeline stage, not vendor loyalty. Classification and `text-embedding-3-small` stay on OpenAI where the ecosystem fit is strong; response generation goes to Claude where citation discipline and context handling are better for this prompt style.
+
+Redis semantic cache applied only to non-personalized queries — personalized context (user history, current training load) makes caching harmful, not just useless. MD5 key over the normalized question with 24h TTL: stale grounding is worse than a slow answer, so TTL is deliberately short relative to knowledge base update cadence.
+
+Two auth flows on one backend — Telegram `initData` HMAC verification for TMA (stateless, no round-trip); Login Widget + Redis long-polling for web (disconnected callback bridged via short-TTL key without exposing secrets in URLs or hitting the database on every poll tick).
+
 **AgentHub** — pgvector inside PostgreSQL instead of a dedicated vector DB — single data layer, transactional consistency, simpler backups. Semantic cache in Redis with LSH bucketing: near-identical questions return cached answers without burning tokens. MCP server for interoperability — external agents can use AgentHub's knowledge base as a tool.
 
 **EventPipe** — Kafka over RabbitMQ because the pipeline processes high-throughput event streams where ordering and replay matter. Separate Ingest/Transform/Query services with different scaling profiles. Dead Letter Queue as a separate topic — failed events don't block the main pipeline.
