@@ -93,7 +93,6 @@ class SayomiYori:
 ## 🏗️ Featured Projects
 
 <table>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -110,9 +109,6 @@ class SayomiYori:
 
 </td>
 <td width="50%" valign="top">
-    
-<tr>
-<td width="50%" valign="top">
 
 ### 🤖 [AgentHub](https://github.com/sayomiyori/AgentHub)
 **AI platform — RAG + Agents + MCP + multi-provider LLM**
@@ -127,6 +123,9 @@ class SayomiYori:
 - ⚡ Semantic cache (Redis, cosine ≥ 0.95), Prometheus + Grafana
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🔄 [EventPipe](https://github.com/sayomiyori/EventPipe)
@@ -142,9 +141,6 @@ class SayomiYori:
 - 📊 Prometheus + Grafana across all services
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🔀 [TaskFlow](https://github.com/sayomiyori/TaskFlow)
@@ -159,6 +155,9 @@ class SayomiYori:
 - 🌐 Nginx reverse proxy with rate limiting
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🔗 [URLShort](https://github.com/sayomiyori/URLShort)
@@ -173,9 +172,6 @@ class SayomiYori:
 - 📊 Prometheus + Grafana dashboard
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🪝 [WebHook Manager](https://github.com/sayomiyori/WebHook_Manager)
@@ -189,6 +185,9 @@ class SayomiYori:
 - 🏗️ Clean Architecture, >80% coverage
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 💬 [RealTimeChat](https://github.com/sayomiyori/RealTimeChat)
@@ -202,9 +201,6 @@ class SayomiYori:
 - 🔐 JWT auth, async stack (asyncpg + redis.asyncio)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 📚 [BookFinder API](https://github.com/sayomiyori/BookFinder-API)
@@ -217,6 +213,9 @@ class SayomiYori:
 - 🔄 CI/CD: ruff → pytest (87% cov) → Docker → auto-deploy
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 [ChillLibrary](https://github.com/sayomiyori/ChillLibraryTgBot) + [BodyTelling](https://github.com/sayomiyori/BodyTellingTelegramBot)
@@ -228,6 +227,8 @@ class SayomiYori:
 - 💪 BodyTelling: workout algorithm, streaks, TZ-aware reminders
 - ✅ Both delivered and accepted without revisions
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
