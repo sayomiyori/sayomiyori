@@ -13,7 +13,7 @@ My main focus is **Python backend development**, with hands-on experience across
 ### Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,rabbitmq&perline=6" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,rabbitmq&perline=6" />
 </p>
 
 <p align="center">
@@ -22,10 +22,28 @@ My main focus is **Python backend development**, with hands-on experience across
   <img src="https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge&logo=alembic&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge" />
 </p>
 
-**Python · FastAPI · Django · Django REST Framework · SQLAlchemy · Pydantic · asyncio · Alembic · Celery**
+---
+
+### Databases & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>SQL · Database Design · Normalization · Indexing · Transactions · Migrations · Caching · Distributed Locks · Vector Search</strong>
+</p>
 
 ---
 
@@ -37,11 +55,11 @@ My main focus is **Python backend development**, with hands-on experience across
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-**LLM APIs · RAG · Vector Search · Embeddings · Prompt Engineering · AI Integrations**
+<p align="center">
+  <strong>LLM APIs · RAG · Vector Search · Embeddings · Prompt Engineering · AI Integrations · OCR · Vision</strong>
+</p>
 
 ---
 
@@ -54,8 +72,6 @@ My main focus is **Python backend development**, with hands-on experience across
 <p align="center">
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
-
-**React · Next.js · TypeScript · JavaScript · Tailwind CSS · Framer Motion · three.js**
 
 ---
 
@@ -72,7 +88,6 @@ My main focus is **Python backend development**, with hands-on experience across
   <img src="https://img.shields.io/badge/VPS-111827?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-**Docker · Docker Compose · Git · GitHub Actions · Linux · Nginx · Yandex Cloud · Railway · Vercel · VPS**
 
 ---
 
