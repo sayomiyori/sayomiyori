@@ -8,7 +8,7 @@ My main focus is **Python backend development**, with hands-on experience across
 
 ---
 
-## 🧩 Core Stack
+## Core Stack
 
 ### Backend
 
@@ -91,14 +91,14 @@ My main focus is **Python backend development**, with hands-on experience across
 
 ---
 
-## 🛠️ What I Build
+## What I Build
 
 **Backend systems · AI-powered products · REST APIs · Telegram bots & Mini Apps · Business automation · E-commerce integrations · End-to-end applications**
 
 ---
 
 <details>
-<summary><strong>⚙️ Engineering & Architecture</strong></summary>
+<summary><strong> Engineering & Architecture</strong></summary>
 
 ### Architecture
 
@@ -146,7 +146,7 @@ My main focus is **Python backend development**, with hands-on experience across
 </details>
 
 <details>
-<summary><strong>🤖 AI Engineering</strong></summary>
+<summary><strong> AI Engineering</strong></summary>
 
 ### LLM APIs
 
@@ -170,7 +170,7 @@ My main focus is **Python backend development**, with hands-on experience across
 </details>
 
 <details>
-<summary><strong>🔌 APIs, Integrations & Automation</strong></summary>
+<summary><strong> APIs, Integrations & Automation</strong></summary>
 
 ### APIs
 
@@ -196,7 +196,7 @@ My main focus is **Python backend development**, with hands-on experience across
 </details>
 
 <details>
-<summary><strong>🛒 E-commerce & Business Automation</strong></summary>
+<summary><strong> E-commerce & Business Automation</strong></summary>
 
 - Product catalog synchronization
 - Marketplace integrations
@@ -213,7 +213,7 @@ My main focus is **Python backend development**, with hands-on experience across
 </details>
 
 <details>
-<summary><strong>🔐 Security, Documents & Additional Experience</strong></summary>
+<summary><strong> Security, Documents & Additional Experience</strong></summary>
 
 ### Security
 
@@ -239,7 +239,7 @@ My main focus is **Python backend development**, with hands-on experience across
 
 ---
 
-## 🧠 Development Approach
+##  Development Approach
 
 I build products **end-to-end**, rather than working on isolated technical components.
 
@@ -249,6 +249,6 @@ My strongest area is **Python backend development**, while my experience across 
 
 ---
 
-## 📫 Contact
+## Contact
 
 [GitHub](https://github.com/sayomiyori) · [Telegram](https://t.me/sayomiyori)
