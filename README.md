@@ -10,70 +10,38 @@ My main focus is **Python backend development**, with hands-on experience across
 
 ## 🧩 Core Stack
 
-### Backend
+🧩 Core Stack
+Backend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,rabbitmq&perline=6" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,fastapi,django,rabbitmq&perline=6" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQLAlchemy-2.x-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge&logo=alembic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge" />
-</p>
+SQLAlchemy · Pydantic · Alembic · Celery · asyncio · Django REST Framework · REST API
 
-**Python · FastAPI · Django · Django REST Framework · SQLAlchemy · Pydantic · asyncio · Alembic · Celery**
+Databases & Data
 
----
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&perline=6" />
 
-### AI / LLM
+PostgreSQL · MySQL · MariaDB · SQL Server · Redis · Qdrant · pgvector
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+SQL · database design · normalization · indexing · transactions · migrations · caching · distributed locks · vector search
 
-**LLM APIs · RAG · Vector Search · Embeddings · Prompt Engineering · AI Integrations**
+AI / LLM
 
----
+Anthropic · OpenAI · Gemini · Groq · OpenRouter
 
-### Frontend
+RAG · Embeddings · Vector Search · Prompt Engineering · OCR · Vision
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs&perline=6" />
-</p>
+Frontend
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs&perline=6" />
 
-**React · Next.js · TypeScript · JavaScript · Tailwind CSS · Framer Motion · three.js**
+Framer Motion · Telegram Mini Apps
 
----
+Infrastructure
 
-### Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,vercel,git&perline=6" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,vercel,git&perline=6" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yandex_Cloud-FFCC00?style=for-the-badge&logo=yandexcloud&logoColor=black" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPS-111827?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
-**Docker · Docker Compose · Git · GitHub Actions · Linux · Nginx · Yandex Cloud · Railway · Vercel · VPS**
-
+Docker Compose · Yandex Cloud · Railway · VPS · CI/CD · deployment · monitoring
 ---
 
 ## 🛠️ What I Build
