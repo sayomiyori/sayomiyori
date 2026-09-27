@@ -2,11 +2,9 @@
 
 ### Python Backend Developer
 
-Backend-focused developer with **3+ years of commercial experience** building production systems, APIs, integrations, automation tools, and AI-powered products.
+Backend-focused developer with **3+ years of commercial experience** building production APIs, asynchronous systems, integrations, automation tools, and AI-powered products.
 
-My main focus is **Python backend development**, asynchronous systems, databases, messaging, and third-party integrations.
-
-I also have hands-on **end-to-end development experience** — from backend architecture and databases to frontend, infrastructure, deployment, and external services.
+My main focus is **Python backend development**, with hands-on experience across the full product lifecycle — from architecture, databases and APIs to frontend, infrastructure, deployment and third-party integrations.
 
 ---
 
@@ -14,8 +12,17 @@ I also have hands-on **end-to-end development experience** — from backend arch
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,rabbitmq,docker,git,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,rabbitmq&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLAlchemy-2.x-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge&logo=alembic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge" />
 </p>
 
 **Python · FastAPI · Django · Django REST Framework · SQLAlchemy · Pydantic · asyncio · Alembic · Celery**
@@ -24,18 +31,28 @@ I also have hands-on **end-to-end development experience** — from backend arch
 
 ### AI / LLM
 
-<p>
-  <img src="https://skillicons.dev/icons?i=openai,qdrant" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-**Anthropic · OpenAI · Gemini · Groq · OpenRouter · RAG · Qdrant · pgvector · Vector Search · Embeddings · Prompt Engineering**
+**LLM APIs · RAG · Vector Search · Embeddings · Prompt Engineering · AI Integrations**
 
 ---
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,threejs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
 **React · Next.js · TypeScript · JavaScript · Tailwind CSS · Framer Motion · three.js**
@@ -44,20 +61,27 @@ I also have hands-on **end-to-end development experience** — from backend arch
 
 ### Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,nginx,vercel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,vercel,git&perline=6" />
 </p>
 
-**Docker · Docker Compose · Git · GitHub Actions · Linux · Nginx · VPS · Yandex Cloud · Railway · Vercel**
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yandex_Cloud-FFCC00?style=for-the-badge&logo=yandexcloud&logoColor=black" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPS-111827?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+**Docker · Docker Compose · Git · GitHub Actions · Linux · Nginx · Yandex Cloud · Railway · Vercel · VPS**
 
 ---
 
 ## ⚙️ Engineering
 
-### Architecture
+### Architecture & Backend Engineering
 
-* REST API design
 * Asynchronous programming
+* REST API design
 * Microservice architecture
 * Clean Architecture
 * Service Layer
@@ -67,9 +91,11 @@ I also have hands-on **end-to-end development experience** — from backend arch
 * Background processing
 * Task queues
 * Webhooks
-* Retry & fault-tolerant integrations
+* Retry mechanisms
+* Fault-tolerant integrations
+* Production debugging
 
-### Databases & Messaging
+### Databases
 
 * PostgreSQL
 * Redis
@@ -78,55 +104,55 @@ I also have hands-on **end-to-end development experience** — from backend arch
 * Qdrant
 * pgvector
 * SQL
-* Database design & normalization
+* Database design
+* Normalization
 * Indexing
 * Transactions
 * Database migrations
+* Caching
+* Distributed locks
+
+### Messaging & Async Processing
+
 * RabbitMQ
 * Yandex Message Queue
 * Celery
-* Distributed locks
-* Caching
-
-### APIs & Integrations
-
-* REST APIs
-* Webhooks
-* OAuth2
-* JWT
-* Third-party API integrations
-* API authentication
-* Rate limiting
-* Webhook signature verification
-* Retry mechanisms
+* Redis
+* asyncio
+* Background workers
+* Scheduled jobs
+* Retry / recovery mechanisms
+* Asynchronous pipelines
 
 ---
 
 ## 🤖 AI Engineering
 
-Hands-on experience integrating AI into real products:
+Hands-on experience integrating AI into production and commercial products.
 
 * LLM API integrations
 * RAG systems
 * Vector search
 * Embeddings
+* Semantic search
 * AI assistants
 * AI chatbots
+* AI-powered business workflows
 * Prompt engineering
 * Prompt optimization
 * Prompt injection prevention
 * OCR
 * Vision-based processing
 
-### LLM & AI APIs
+### AI APIs
 
 * Anthropic API
 * OpenAI API
-* Gemini API
+* Google Gemini API
 * Groq API
 * OpenRouter
 
-### Vector / RAG
+### Vector & Retrieval
 
 * Qdrant
 * pgvector
@@ -136,20 +162,30 @@ Hands-on experience integrating AI into real products:
 
 ---
 
-## 🔌 Integrations
+## 🔌 APIs & Integrations
 
-Experience building systems around external APIs and business platforms:
+Experience building and maintaining integrations with external services and business platforms.
 
-* **Telegram Bot API**
-* **Telegram Mini Apps**
-* **amoCRM API**
-* **Google Drive API**
-* **Digiseller API**
-* **TravelLine Partner API**
-* **Wildberries API**
-* **Ozon API**
-* **1С:Розница 8.3**
-* **Steam integrations**
+* REST APIs
+* Webhooks
+* OAuth2
+* JWT
+* API authentication
+* Rate limiting
+* Webhook signature verification
+* Retry logic
+* Third-party API integrations
+
+### Business & Platform APIs
+
+* amoCRM API
+* Google Drive API
+* Digiseller API
+* TravelLine Partner API
+* Wildberries API
+* Ozon API
+* 1С:Розница 8.3
+* Steam integrations
 
 ---
 
@@ -169,7 +205,7 @@ Experience building systems around external APIs and business platforms:
 
 ## 🛒 E-commerce & Business Automation
 
-Experience building automation and integrations for real business workflows:
+Experience building software for real business workflows and e-commerce operations.
 
 * Product catalog synchronization
 * Marketplace integrations
@@ -198,21 +234,6 @@ Experience building automation and integrations for real business workflows:
 
 ---
 
-## 🔐 Security & Authentication
-
-* OAuth2
-* JWT
-* API authentication
-* Credential encryption
-* Fernet
-* API key management
-* Rate limiting
-* Distributed locks
-* Webhook signature verification
-* Prompt injection protection
-
----
-
 ## 🚀 DevOps & Infrastructure
 
 * Docker
@@ -220,7 +241,6 @@ Experience building automation and integrations for real business workflows:
 * Linux / Ubuntu
 * Nginx
 * Git
-* GitHub
 * GitHub Actions
 * CI/CD
 * VPS deployment
@@ -236,10 +256,25 @@ Experience building automation and integrations for real business workflows:
 * S3
 * Lockbox
 * Yandex Message Queue
-* Vercel
 * Railway
 * Render
+* Vercel
 * VPS
+
+---
+
+## 🔐 Security & Authentication
+
+* OAuth2
+* JWT
+* API authentication
+* Credential encryption
+* Fernet
+* API key management
+* Rate limiting
+* Distributed locks
+* Webhook signature verification
+* Prompt injection prevention
 
 ---
 
@@ -257,7 +292,8 @@ Experience building automation and integrations for real business workflows:
 
 ---
 
-## 💻 Additional Experience
+<details>
+<summary><strong>💻 Additional Languages & Experience</strong></summary>
 
 ### Languages
 
@@ -269,7 +305,7 @@ Experience building automation and integrations for real business workflows:
 * SQL
 * Bash
 
-### Desktop Development
+### C# / Desktop
 
 * WPF
 * WinForms
@@ -283,33 +319,63 @@ Experience building automation and integrations for real business workflows:
 * PDO
 * MODX
 
+</details>
+
+<details>
+<summary><strong>🧰 Additional Tools & Technologies</strong></summary>
+
+* Selenium
+* SQLite
+* Render
+* Beget
+* Timeweb
+* KasmVNC
+* structlog
+* Fernet
+* openpyxl
+* python-docx
+* ReportLab
+
+</details>
+
 ---
 
 ## 🧠 How I Work
 
-I prefer building complete systems rather than working on isolated technical parts.
+I prefer building **complete systems rather than isolated technical components**.
 
-Typical responsibilities across my projects include:
+Across my projects, I have worked through the entire development lifecycle:
 
 **Architecture → Backend → Database → Integrations → Frontend → Infrastructure → Deployment**
 
-I work with asynchronous Python, APIs, databases, queues, external services, AI integrations, containerization, and production deployment.
+My typical work involves:
+
+* Designing backend architecture
+* Building asynchronous APIs and services
+* Designing databases and migrations
+* Implementing queues and background processing
+* Integrating external APIs and business platforms
+* Building AI-powered functionality
+* Developing frontend interfaces
+* Containerizing applications
+* Setting up CI/CD
+* Deploying and debugging production systems
 
 ---
 
-## 📌 Focus
+## 🎯 Main Focus
 
-**Backend Development**
+### Backend Development
 
-Python · FastAPI · Django · PostgreSQL · SQLAlchemy · Redis · RabbitMQ · Celery · REST APIs
+**Python · FastAPI · Django · PostgreSQL · SQLAlchemy · Redis · RabbitMQ · Celery · REST APIs**
 
-**AI Engineering**
+### AI Engineering
 
-LLM APIs · RAG · Qdrant · pgvector · Vector Search · AI integrations
+**LLM APIs · RAG · Qdrant · pgvector · Vector Search · AI Integrations**
 
-**End-to-End Development**
+### End-to-End Development
 
-React · Next.js · TypeScript · Docker · CI/CD · Cloud/VPS · Third-party integrations
+**React · Next.js · TypeScript · Docker · CI/CD · Cloud/VPS · Third-party Integrations**
 
 ---
 
