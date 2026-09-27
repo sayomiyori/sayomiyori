@@ -30,25 +30,6 @@ Infrastructure
 <p align="center"> <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,vercel,git&perline=6" /> </p>
 
 <p align="center"> <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Yandex_Cloud-FFCC00?style=for-the-badge&logo=yandexcloud&logoColor=black" /> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" /> </p>
-
-### Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs&perline=6" />
-</p>
-
-### Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,vercel,git&perline=6" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yandex_Cloud-FFCC00?style=for-the-badge&logo=yandexcloud&logoColor=black" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-</p>
-
 ---
 
 ## 🛠️ What I Build
