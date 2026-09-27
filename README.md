@@ -76,310 +76,164 @@ My main focus is **Python backend development**, with hands-on experience across
 
 ---
 
-## ⚙️ Engineering
+## 🛠️ What I Build
 
-### Architecture & Backend Engineering
+**Backend systems · AI-powered products · REST APIs · Telegram bots & Mini Apps · Business automation · E-commerce integrations · End-to-end applications**
 
-* Asynchronous programming
-* REST API design
-* Microservice architecture
-* Clean Architecture
-* Service Layer
-* Repository Pattern
-* Dependency Injection
-* Event-driven / message-driven systems
-* Background processing
-* Task queues
-* Webhooks
-* Retry mechanisms
-* Fault-tolerant integrations
-* Production debugging
+---
+
+<details>
+<summary><strong>⚙️ Engineering & Architecture</strong></summary>
+
+### Architecture
+
+- Async / concurrent programming
+- REST API design
+- Microservices
+- Clean Architecture
+- Service Layer
+- Repository Pattern
+- Dependency Injection
+- Event / message-driven systems
+- Background processing
+- Task queues
+- Webhooks
+- Retry & fault-tolerant integrations
 
 ### Databases
 
-* PostgreSQL
-* Redis
-* SQL Server
-* SQLite
-* Qdrant
-* pgvector
-* SQL
-* Database design
-* Normalization
-* Indexing
-* Transactions
-* Database migrations
-* Caching
-* Distributed locks
+**PostgreSQL · Redis · SQL Server · SQLite · Qdrant · pgvector**
 
-### Messaging & Async Processing
+- Database design & normalization
+- Indexing
+- Transactions
+- Migrations
+- Caching
+- Distributed locks
 
-* RabbitMQ
-* Yandex Message Queue
-* Celery
-* Redis
-* asyncio
-* Background workers
-* Scheduled jobs
-* Retry / recovery mechanisms
-* Asynchronous pipelines
+### Messaging
 
----
+**RabbitMQ · Yandex Message Queue · Celery · Redis · asyncio**
 
-## 🤖 AI Engineering
+- Background workers
+- Scheduled jobs
+- Asynchronous pipelines
+- Retry / recovery mechanisms
 
-Hands-on experience integrating AI into production and commercial products.
+### Production
 
-* LLM API integrations
-* RAG systems
-* Vector search
-* Embeddings
-* Semantic search
-* AI assistants
-* AI chatbots
-* AI-powered business workflows
-* Prompt engineering
-* Prompt optimization
-* Prompt injection prevention
-* OCR
-* Vision-based processing
+- Docker healthchecks
+- Application health endpoints
+- Structured logging
+- CI/CD
+- Production debugging
 
-### AI APIs
-
-* Anthropic API
-* OpenAI API
-* Google Gemini API
-* Groq API
-* OpenRouter
-
-### Vector & Retrieval
-
-* Qdrant
-* pgvector
-* Embeddings
-* Semantic search
-* Retrieval-Augmented Generation
-
----
-
-## 🔌 APIs & Integrations
-
-Experience building and maintaining integrations with external services and business platforms.
-
-* REST APIs
-* Webhooks
-* OAuth2
-* JWT
-* API authentication
-* Rate limiting
-* Webhook signature verification
-* Retry logic
-* Third-party API integrations
-
-### Business & Platform APIs
-
-* amoCRM API
-* Google Drive API
-* Digiseller API
-* TravelLine Partner API
-* Wildberries API
-* Ozon API
-* 1С:Розница 8.3
-* Steam integrations
-
----
-
-## 📱 Telegram
-
-* aiogram 3
-* Telegram Bot API
-* Telegram Mini Apps
-* Pyrogram
-* FSM / state management
-* Inline keyboards
-* Callback queries
-* Webhooks
-* Polling
-
----
-
-## 🛒 E-commerce & Business Automation
-
-Experience building software for real business workflows and e-commerce operations.
-
-* Product catalog synchronization
-* Marketplace integrations
-* Price synchronization
-* Stock synchronization
-* Product variant management
-* CRM automation
-* 1С integrations
-* Digiseller automation
-* Wildberries integrations
-* Ozon integrations
-* Google Drive automation
-* Automated document generation
-* Business process automation
-
----
-
-## 🌐 Web Automation
-
-* Playwright
-* Browser automation
-* Multi-profile browser isolation
-* KasmVNC
-* Automated workflows
-* API-driven automation
-
----
-
-## 🚀 DevOps & Infrastructure
-
-* Docker
-* Docker Compose
-* Linux / Ubuntu
-* Nginx
-* Git
-* GitHub Actions
-* CI/CD
-* VPS deployment
-* Application health checks
-* Docker healthchecks
-* Structured logging
-* Production debugging
-
-### Cloud & Hosting
-
-* Yandex Cloud
-* Serverless Containers
-* S3
-* Lockbox
-* Yandex Message Queue
-* Railway
-* Render
-* Vercel
-* VPS
-
----
-
-## 🔐 Security & Authentication
-
-* OAuth2
-* JWT
-* API authentication
-* Credential encryption
-* Fernet
-* API key management
-* Rate limiting
-* Distributed locks
-* Webhook signature verification
-* Prompt injection prevention
-
----
-
-## 📄 Documents & Data Processing
-
-* openpyxl
-* python-docx
-* ReportLab
-* Excel processing
-* PDF generation
-* Word document generation
-* Document templates
-* Google Drive
-* OCR
-
----
+</details>
 
 <details>
-<summary><strong>💻 Additional Languages & Experience</strong></summary>
+<summary><strong>🤖 AI Engineering</strong></summary>
 
-### Languages
+### LLM APIs
 
-* C#
-* C++
-* PHP
-* JavaScript
-* TypeScript
-* SQL
-* Bash
+**Anthropic · OpenAI · Gemini · Groq · OpenRouter**
 
-### C# / Desktop
+### Retrieval & RAG
 
-* WPF
-* WinForms
-* MVVM
-* WinAPI
-* SQL Server
+**Qdrant · pgvector · Embeddings · Vector Search · RAG**
+
+### AI Applications
+
+- AI assistants
+- AI chatbots
+- AI-powered business workflows
+- Prompt engineering
+- Prompt optimization
+- Prompt injection prevention
+- OCR
+- Vision-based processing
+
+</details>
+
+<details>
+<summary><strong>🔌 APIs, Integrations & Automation</strong></summary>
+
+### APIs
+
+**REST · Webhooks · OAuth2 · JWT**
+
+### Integrations
+
+**amoCRM · Google Drive · Digiseller · TravelLine · Wildberries · Ozon · 1С:Розница · Steam**
+
+### Telegram
+
+**aiogram 3 · Telegram Bot API · Telegram Mini Apps · Pyrogram**
+
+### Web Automation
+
+**Playwright · KasmVNC**
+
+- Browser automation
+- Multi-profile isolation
+- Automated workflows
+- API-driven automation
+
+</details>
+
+<details>
+<summary><strong>🛒 E-commerce & Business Automation</strong></summary>
+
+- Product catalog synchronization
+- Marketplace integrations
+- Price & stock synchronization
+- Product variant management
+- CRM automation
+- 1С integrations
+- Digiseller automation
+- Wildberries / Ozon integrations
+- Google Drive automation
+- Automated document generation
+- Business process automation
+
+</details>
+
+<details>
+<summary><strong>🔐 Security, Documents & Additional Experience</strong></summary>
+
+### Security
+
+**OAuth2 · JWT · Fernet · API authentication · Rate limiting · Credential encryption · Distributed locks · Webhook signature verification**
+
+### Documents & Data
+
+**openpyxl · python-docx · ReportLab · Excel · PDF · Word · OCR**
+
+### Additional Languages
+
+**C# · C++ · PHP · JavaScript · TypeScript · SQL · Bash**
+
+### Desktop
+
+**WPF · WinForms · MVVM · WinAPI · SQL Server**
 
 ### PHP
 
-* PHP
-* PDO
-* MODX
-
-</details>
-
-<details>
-<summary><strong>🧰 Additional Tools & Technologies</strong></summary>
-
-* Selenium
-* SQLite
-* Render
-* Beget
-* Timeweb
-* KasmVNC
-* structlog
-* Fernet
-* openpyxl
-* python-docx
-* ReportLab
+**PHP · PDO · MODX**
 
 </details>
 
 ---
 
-## 🧠 How I Work
+## 🧠 Development Approach
 
-I prefer building **complete systems rather than isolated technical components**.
-
-Across my projects, I have worked through the entire development lifecycle:
+I build products **end-to-end**, rather than working on isolated technical components.
 
 **Architecture → Backend → Database → Integrations → Frontend → Infrastructure → Deployment**
 
-My typical work involves:
-
-* Designing backend architecture
-* Building asynchronous APIs and services
-* Designing databases and migrations
-* Implementing queues and background processing
-* Integrating external APIs and business platforms
-* Building AI-powered functionality
-* Developing frontend interfaces
-* Containerizing applications
-* Setting up CI/CD
-* Deploying and debugging production systems
-
----
-
-## 🎯 Main Focus
-
-### Backend Development
-
-**Python · FastAPI · Django · PostgreSQL · SQLAlchemy · Redis · RabbitMQ · Celery · REST APIs**
-
-### AI Engineering
-
-**LLM APIs · RAG · Qdrant · pgvector · Vector Search · AI Integrations**
-
-### End-to-End Development
-
-**React · Next.js · TypeScript · Docker · CI/CD · Cloud/VPS · Third-party Integrations**
+My strongest area is **Python backend development**, while my experience across frontend, AI, infrastructure, and integrations allows me to independently take products from idea to production.
 
 ---
 
 ## 📫 Contact
 
-* GitHub: [@sayomiyori](https://github.com/sayomiyori)
-* Telegram: [@sayomiyori](https://t.me/sayomiyori)
+[GitHub](https://github.com/sayomiyori) · [Telegram](https://t.me/sayomiyori)
