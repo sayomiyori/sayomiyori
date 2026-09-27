@@ -1,4 +1,4 @@
-# SayomiYori
+# sayomiyori.
 
 ### Python Backend Developer
 
