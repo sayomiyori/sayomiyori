@@ -73,6 +73,7 @@ My main focus is **Python backend development**, with hands-on experience across
 </p>
 
 **Docker · Docker Compose · Git · GitHub Actions · Linux · Nginx · Yandex Cloud · Railway · Vercel · VPS**
+
 ---
 
 ## 🛠️ What I Build
