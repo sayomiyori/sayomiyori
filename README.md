@@ -4,7 +4,7 @@
 
 Backend-focused developer with **3+ years of commercial experience** building production APIs, asynchronous systems, integrations, automation tools, and AI-powered products.
 
-My main focus is **Python backend development**, with hands-on experience across the full product lifecycle — from architecture, databases and APIs to frontend, infrastructure, deployment and third-party integrations.
+Hands-on **end-to-end development** — from backend architecture and databases to frontend, infrastructure, deployment, and third-party integrations.
 
 ---
 
@@ -22,12 +22,7 @@ My main focus is **Python backend development**, with hands-on experience across
   <img src="https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge&logo=alembic&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge" />
 </p>
-
-**Python · FastAPI · Django · Django REST Framework · SQLAlchemy · Pydantic · asyncio · Alembic · Celery**
-
----
 
 ### AI / LLM
 
@@ -41,23 +36,13 @@ My main focus is **Python backend development**, with hands-on experience across
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-**LLM APIs · RAG · Vector Search · Embeddings · Prompt Engineering · AI Integrations**
-
----
+**RAG · Vector Search · Embeddings · Prompt Engineering**
 
 ### Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs&perline=6" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-**React · Next.js · TypeScript · JavaScript · Tailwind CSS · Framer Motion · three.js**
-
----
 
 ### Infrastructure
 
@@ -69,72 +54,77 @@ My main focus is **Python backend development**, with hands-on experience across
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Yandex_Cloud-FFCC00?style=for-the-badge&logo=yandexcloud&logoColor=black" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPS-111827?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
-
-**Docker · Docker Compose · Git · GitHub Actions · Linux · Nginx · Yandex Cloud · Railway · Vercel · VPS**
 
 ---
 
-## ⚙️ Engineering
+## 🛠️ What I Build
 
-### Architecture & Backend Engineering
+**Backend systems · AI-powered products · REST APIs · Telegram bots & Mini Apps · Business automation · E-commerce integrations · End-to-end applications**
 
-* Asynchronous programming
+---
+
+<details>
+<summary><strong>⚙️ Engineering & Architecture</strong></summary>
+
+### Architecture
+
+* Async / concurrent programming
 * REST API design
-* Microservice architecture
+* Microservices
 * Clean Architecture
 * Service Layer
 * Repository Pattern
 * Dependency Injection
-* Event-driven / message-driven systems
+* Event / message-driven systems
 * Background processing
 * Task queues
 * Webhooks
-* Retry mechanisms
-* Fault-tolerant integrations
-* Production debugging
+* Retry & fault-tolerant integrations
 
 ### Databases
 
-* PostgreSQL
-* Redis
-* SQL Server
-* SQLite
-* Qdrant
-* pgvector
-* SQL
-* Database design
-* Normalization
+**PostgreSQL · Redis · SQL Server · SQLite · Qdrant · pgvector**
+
+* Database design & normalization
 * Indexing
 * Transactions
-* Database migrations
+* Migrations
 * Caching
 * Distributed locks
 
-### Messaging & Async Processing
+### Messaging
 
-* RabbitMQ
-* Yandex Message Queue
-* Celery
-* Redis
-* asyncio
+**RabbitMQ · Yandex Message Queue · Celery · Redis · asyncio**
+
 * Background workers
 * Scheduled jobs
-* Retry / recovery mechanisms
 * Asynchronous pipelines
+* Retry / recovery mechanisms
 
----
+### Production
 
-## 🤖 AI Engineering
+* Docker healthchecks
+* Application health endpoints
+* Structured logging
+* CI/CD
+* Production debugging
 
-Hands-on experience integrating AI into production and commercial products.
+</details>
 
-* LLM API integrations
-* RAG systems
-* Vector search
-* Embeddings
-* Semantic search
+<details>
+<summary><strong>🤖 AI Engineering</strong></summary>
+
+### LLM APIs
+
+**Anthropic · OpenAI · Gemini · Groq · OpenRouter**
+
+### Retrieval & RAG
+
+**Qdrant · pgvector · Embeddings · Vector Search · RAG**
+
+### AI Applications
+
 * AI assistants
 * AI chatbots
 * AI-powered business workflows
@@ -144,242 +134,88 @@ Hands-on experience integrating AI into production and commercial products.
 * OCR
 * Vision-based processing
 
-### AI APIs
+</details>
 
-* Anthropic API
-* OpenAI API
-* Google Gemini API
-* Groq API
-* OpenRouter
+<details>
+<summary><strong>🔌 APIs, Integrations & Automation</strong></summary>
 
-### Vector & Retrieval
+### APIs
 
-* Qdrant
-* pgvector
-* Embeddings
-* Semantic search
-* Retrieval-Augmented Generation
+**REST · Webhooks · OAuth2 · JWT**
 
----
+### Integrations
 
-## 🔌 APIs & Integrations
+**amoCRM · Google Drive · Digiseller · TravelLine · Wildberries · Ozon · 1С:Розница · Steam**
 
-Experience building and maintaining integrations with external services and business platforms.
+### Telegram
 
-* REST APIs
-* Webhooks
-* OAuth2
-* JWT
-* API authentication
-* Rate limiting
-* Webhook signature verification
-* Retry logic
-* Third-party API integrations
+**aiogram 3 · Telegram Bot API · Telegram Mini Apps · Pyrogram**
 
-### Business & Platform APIs
+### Web Automation
 
-* amoCRM API
-* Google Drive API
-* Digiseller API
-* TravelLine Partner API
-* Wildberries API
-* Ozon API
-* 1С:Розница 8.3
-* Steam integrations
+**Playwright · KasmVNC**
 
----
+* Browser automation
+* Multi-profile isolation
+* Automated workflows
+* API-driven automation
 
-## 📱 Telegram
+</details>
 
-* aiogram 3
-* Telegram Bot API
-* Telegram Mini Apps
-* Pyrogram
-* FSM / state management
-* Inline keyboards
-* Callback queries
-* Webhooks
-* Polling
-
----
-
-## 🛒 E-commerce & Business Automation
-
-Experience building software for real business workflows and e-commerce operations.
+<details>
+<summary><strong>🛒 E-commerce & Business Automation</strong></summary>
 
 * Product catalog synchronization
 * Marketplace integrations
-* Price synchronization
-* Stock synchronization
+* Price & stock synchronization
 * Product variant management
 * CRM automation
 * 1С integrations
 * Digiseller automation
-* Wildberries integrations
-* Ozon integrations
+* Wildberries / Ozon integrations
 * Google Drive automation
 * Automated document generation
 * Business process automation
 
----
-
-## 🌐 Web Automation
-
-* Playwright
-* Browser automation
-* Multi-profile browser isolation
-* KasmVNC
-* Automated workflows
-* API-driven automation
-
----
-
-## 🚀 DevOps & Infrastructure
-
-* Docker
-* Docker Compose
-* Linux / Ubuntu
-* Nginx
-* Git
-* GitHub Actions
-* CI/CD
-* VPS deployment
-* Application health checks
-* Docker healthchecks
-* Structured logging
-* Production debugging
-
-### Cloud & Hosting
-
-* Yandex Cloud
-* Serverless Containers
-* S3
-* Lockbox
-* Yandex Message Queue
-* Railway
-* Render
-* Vercel
-* VPS
-
----
-
-## 🔐 Security & Authentication
-
-* OAuth2
-* JWT
-* API authentication
-* Credential encryption
-* Fernet
-* API key management
-* Rate limiting
-* Distributed locks
-* Webhook signature verification
-* Prompt injection prevention
-
----
-
-## 📄 Documents & Data Processing
-
-* openpyxl
-* python-docx
-* ReportLab
-* Excel processing
-* PDF generation
-* Word document generation
-* Document templates
-* Google Drive
-* OCR
-
----
+</details>
 
 <details>
-<summary><strong>💻 Additional Languages & Experience</strong></summary>
+<summary><strong>🔐 Security, Documents & Additional Experience</strong></summary>
 
-### Languages
+### Security
 
-* C#
-* C++
-* PHP
-* JavaScript
-* TypeScript
-* SQL
-* Bash
+**OAuth2 · JWT · Fernet · API authentication · Rate limiting · Credential encryption · Distributed locks · Webhook signature verification**
 
-### C# / Desktop
+### Documents & Data
 
-* WPF
-* WinForms
-* MVVM
-* WinAPI
-* SQL Server
+**openpyxl · python-docx · ReportLab · Excel · PDF · Word · OCR**
+
+### Additional Languages
+
+**C# · C++ · PHP · JavaScript · TypeScript · SQL · Bash**
+
+### Desktop
+
+**WPF · WinForms · MVVM · WinAPI · SQL Server**
 
 ### PHP
 
-* PHP
-* PDO
-* MODX
-
-</details>
-
-<details>
-<summary><strong>🧰 Additional Tools & Technologies</strong></summary>
-
-* Selenium
-* SQLite
-* Render
-* Beget
-* Timeweb
-* KasmVNC
-* structlog
-* Fernet
-* openpyxl
-* python-docx
-* ReportLab
+**PHP · PDO · MODX**
 
 </details>
 
 ---
 
-## 🧠 How I Work
+## 🧠 Development Approach
 
-I prefer building **complete systems rather than isolated technical components**.
-
-Across my projects, I have worked through the entire development lifecycle:
+I build products **end-to-end**, rather than working on isolated technical components.
 
 **Architecture → Backend → Database → Integrations → Frontend → Infrastructure → Deployment**
 
-My typical work involves:
-
-* Designing backend architecture
-* Building asynchronous APIs and services
-* Designing databases and migrations
-* Implementing queues and background processing
-* Integrating external APIs and business platforms
-* Building AI-powered functionality
-* Developing frontend interfaces
-* Containerizing applications
-* Setting up CI/CD
-* Deploying and debugging production systems
-
----
-
-## 🎯 Main Focus
-
-### Backend Development
-
-**Python · FastAPI · Django · PostgreSQL · SQLAlchemy · Redis · RabbitMQ · Celery · REST APIs**
-
-### AI Engineering
-
-**LLM APIs · RAG · Qdrant · pgvector · Vector Search · AI Integrations**
-
-### End-to-End Development
-
-**React · Next.js · TypeScript · Docker · CI/CD · Cloud/VPS · Third-party Integrations**
+My strongest area is **Python backend development**, while my experience across frontend, AI, infrastructure, and integrations allows me to independently take products from idea to production.
 
 ---
 
 ## 📫 Contact
 
-* GitHub: [@sayomiyori](https://github.com/sayomiyori)
-* Telegram: [@sayomiyori](https://t.me/sayomiyori)
+[GitHub](https://github.com/sayomiyori) · [Telegram](https://t.me/sayomiyori)
